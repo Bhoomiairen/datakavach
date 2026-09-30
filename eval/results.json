@@ -1,0 +1,1731 @@
+{
+  "machine": {
+    "platform": "Linux-6.18.44-fc-v37-x86_64-with-glibc2.39",
+    "cpus": 2
+  },
+  "shared_types": [
+    "AADHAAR",
+    "PAN",
+    "GSTIN",
+    "CARD",
+    "PHONE",
+    "EMAIL",
+    "VOTER_ID",
+    "PASSPORT"
+  ],
+  "threshold": 0.5,
+  "sets": {
+    "standard": {
+      "dataset": {
+        "documents": 2000,
+        "labelled_values": 4489,
+        "megabytes": 0.259
+      },
+      "datakavach": {
+        "all_types": {
+          "overall": {
+            "tp": 4489,
+            "fp": 18,
+            "fn": 0,
+            "precision": 0.996,
+            "recall": 1.0,
+            "f1": 0.998
+          },
+          "per_type": {
+            "AADHAAR": {
+              "tp": 890,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PAN": {
+              "tp": 482,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "GSTIN": {
+              "tp": 181,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "CARD": {
+              "tp": 161,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PHONE": {
+              "tp": 1274,
+              "fp": 18,
+              "fn": 0,
+              "precision": 0.9861,
+              "recall": 1.0,
+              "f1": 0.993
+            },
+            "BANK_ACCOUNT": {
+              "tp": 181,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "IFSC": {
+              "tp": 181,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "UPI": {
+              "tp": 295,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "EMAIL": {
+              "tp": 451,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "VOTER_ID": {
+              "tp": 168,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PASSPORT": {
+              "tp": 225,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            }
+          },
+          "by_kind": {
+            "ambiguous": {
+              "tp": 52,
+              "fp": 18,
+              "fn": 0,
+              "precision": 0.7429,
+              "recall": 1.0,
+              "f1": 0.8525
+            },
+            "app_log": {
+              "tp": 255,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "json_record": {
+              "tp": 399,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "kyc_form": {
+              "tp": 1267,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "payment_chat": {
+              "tp": 285,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "ticket_en": {
+              "tp": 657,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "ticket_hindi": {
+              "tp": 419,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "ticket_hinglish": {
+              "tp": 482,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "travel": {
+              "tp": 130,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "vendor_note": {
+              "tp": 543,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            }
+          }
+        },
+        "shared_types": {
+          "overall": {
+            "tp": 3832,
+            "fp": 18,
+            "fn": 0,
+            "precision": 0.9953,
+            "recall": 1.0,
+            "f1": 0.9977
+          },
+          "per_type": {
+            "AADHAAR": {
+              "tp": 890,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PAN": {
+              "tp": 482,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "GSTIN": {
+              "tp": 181,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "CARD": {
+              "tp": 161,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PHONE": {
+              "tp": 1274,
+              "fp": 18,
+              "fn": 0,
+              "precision": 0.9861,
+              "recall": 1.0,
+              "f1": 0.993
+            },
+            "EMAIL": {
+              "tp": 451,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "VOTER_ID": {
+              "tp": 168,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PASSPORT": {
+              "tp": 225,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            }
+          },
+          "by_kind": {
+            "ambiguous": {
+              "tp": 52,
+              "fp": 18,
+              "fn": 0,
+              "precision": 0.7429,
+              "recall": 1.0,
+              "f1": 0.8525
+            },
+            "app_log": {
+              "tp": 255,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "json_record": {
+              "tp": 399,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "kyc_form": {
+              "tp": 1267,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "payment_chat": {
+              "tp": 82,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "ticket_en": {
+              "tp": 657,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "ticket_hindi": {
+              "tp": 419,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "ticket_hinglish": {
+              "tp": 390,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "travel": {
+              "tp": 130,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "vendor_note": {
+              "tp": 181,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            }
+          }
+        },
+        "shared_types_same_docs": {
+          "overall": {
+            "tp": 3832,
+            "fp": 18,
+            "fn": 0,
+            "precision": 0.9953,
+            "recall": 1.0,
+            "f1": 0.9977
+          },
+          "per_type": {
+            "AADHAAR": {
+              "tp": 890,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PAN": {
+              "tp": 482,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "GSTIN": {
+              "tp": 181,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "CARD": {
+              "tp": 161,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PHONE": {
+              "tp": 1274,
+              "fp": 18,
+              "fn": 0,
+              "precision": 0.9861,
+              "recall": 1.0,
+              "f1": 0.993
+            },
+            "EMAIL": {
+              "tp": 451,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "VOTER_ID": {
+              "tp": 168,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PASSPORT": {
+              "tp": 225,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            }
+          },
+          "by_kind": {
+            "ambiguous": {
+              "tp": 52,
+              "fp": 18,
+              "fn": 0,
+              "precision": 0.7429,
+              "recall": 1.0,
+              "f1": 0.8525
+            },
+            "app_log": {
+              "tp": 255,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "json_record": {
+              "tp": 399,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "kyc_form": {
+              "tp": 1267,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "payment_chat": {
+              "tp": 82,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "ticket_en": {
+              "tp": 657,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "ticket_hindi": {
+              "tp": 419,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "ticket_hinglish": {
+              "tp": 390,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "travel": {
+              "tp": 130,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "vendor_note": {
+              "tp": 181,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            }
+          }
+        }
+      },
+      "presidio": {
+        "threshold": 0.1,
+        "all_types": {
+          "overall": {
+            "tp": 3722,
+            "fp": 534,
+            "fn": 767,
+            "precision": 0.8745,
+            "recall": 0.8291,
+            "f1": 0.8512
+          },
+          "per_type": {
+            "AADHAAR": {
+              "tp": 789,
+              "fp": 218,
+              "fn": 101,
+              "precision": 0.7835,
+              "recall": 0.8865,
+              "f1": 0.8318
+            },
+            "PAN": {
+              "tp": 482,
+              "fp": 6,
+              "fn": 0,
+              "precision": 0.9877,
+              "recall": 1.0,
+              "f1": 0.9938
+            },
+            "GSTIN": {
+              "tp": 181,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "CARD": {
+              "tp": 161,
+              "fp": 10,
+              "fn": 0,
+              "precision": 0.9415,
+              "recall": 1.0,
+              "f1": 0.9699
+            },
+            "PHONE": {
+              "tp": 1265,
+              "fp": 300,
+              "fn": 9,
+              "precision": 0.8083,
+              "recall": 0.9929,
+              "f1": 0.8912
+            },
+            "BANK_ACCOUNT": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 181,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "IFSC": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 181,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "UPI": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 295,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "EMAIL": {
+              "tp": 451,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "VOTER_ID": {
+              "tp": 168,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PASSPORT": {
+              "tp": 225,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            }
+          },
+          "by_kind": {
+            "ambiguous": {
+              "tp": 52,
+              "fp": 18,
+              "fn": 0,
+              "precision": 0.7429,
+              "recall": 1.0,
+              "f1": 0.8525
+            },
+            "app_log": {
+              "tp": 255,
+              "fp": 27,
+              "fn": 0,
+              "precision": 0.9043,
+              "recall": 1.0,
+              "f1": 0.9497
+            },
+            "json_record": {
+              "tp": 399,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "kyc_form": {
+              "tp": 1264,
+              "fp": 15,
+              "fn": 3,
+              "precision": 0.9883,
+              "recall": 0.9976,
+              "f1": 0.9929
+            },
+            "negatives": {
+              "tp": 0,
+              "fp": 125,
+              "fn": 0,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "payment_chat": {
+              "tp": 82,
+              "fp": 178,
+              "fn": 203,
+              "precision": 0.3154,
+              "recall": 0.2877,
+              "f1": 0.3009
+            },
+            "ticket_en": {
+              "tp": 656,
+              "fp": 19,
+              "fn": 1,
+              "precision": 0.9719,
+              "recall": 0.9985,
+              "f1": 0.985
+            },
+            "ticket_hindi": {
+              "tp": 318,
+              "fp": 0,
+              "fn": 101,
+              "precision": 1.0,
+              "recall": 0.7589,
+              "f1": 0.863
+            },
+            "ticket_hinglish": {
+              "tp": 385,
+              "fp": 33,
+              "fn": 97,
+              "precision": 0.9211,
+              "recall": 0.7988,
+              "f1": 0.8556
+            },
+            "travel": {
+              "tp": 130,
+              "fp": 92,
+              "fn": 0,
+              "precision": 0.5856,
+              "recall": 1.0,
+              "f1": 0.7386
+            },
+            "vendor_note": {
+              "tp": 181,
+              "fp": 27,
+              "fn": 362,
+              "precision": 0.8702,
+              "recall": 0.3333,
+              "f1": 0.482
+            }
+          }
+        },
+        "shared_types": {
+          "overall": {
+            "tp": 3722,
+            "fp": 534,
+            "fn": 110,
+            "precision": 0.8745,
+            "recall": 0.9713,
+            "f1": 0.9204
+          },
+          "per_type": {
+            "AADHAAR": {
+              "tp": 789,
+              "fp": 218,
+              "fn": 101,
+              "precision": 0.7835,
+              "recall": 0.8865,
+              "f1": 0.8318
+            },
+            "PAN": {
+              "tp": 482,
+              "fp": 6,
+              "fn": 0,
+              "precision": 0.9877,
+              "recall": 1.0,
+              "f1": 0.9938
+            },
+            "GSTIN": {
+              "tp": 181,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "CARD": {
+              "tp": 161,
+              "fp": 10,
+              "fn": 0,
+              "precision": 0.9415,
+              "recall": 1.0,
+              "f1": 0.9699
+            },
+            "PHONE": {
+              "tp": 1265,
+              "fp": 300,
+              "fn": 9,
+              "precision": 0.8083,
+              "recall": 0.9929,
+              "f1": 0.8912
+            },
+            "EMAIL": {
+              "tp": 451,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "VOTER_ID": {
+              "tp": 168,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PASSPORT": {
+              "tp": 225,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            }
+          },
+          "by_kind": {
+            "ambiguous": {
+              "tp": 52,
+              "fp": 18,
+              "fn": 0,
+              "precision": 0.7429,
+              "recall": 1.0,
+              "f1": 0.8525
+            },
+            "app_log": {
+              "tp": 255,
+              "fp": 27,
+              "fn": 0,
+              "precision": 0.9043,
+              "recall": 1.0,
+              "f1": 0.9497
+            },
+            "json_record": {
+              "tp": 399,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "kyc_form": {
+              "tp": 1264,
+              "fp": 15,
+              "fn": 3,
+              "precision": 0.9883,
+              "recall": 0.9976,
+              "f1": 0.9929
+            },
+            "negatives": {
+              "tp": 0,
+              "fp": 125,
+              "fn": 0,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "payment_chat": {
+              "tp": 82,
+              "fp": 178,
+              "fn": 0,
+              "precision": 0.3154,
+              "recall": 1.0,
+              "f1": 0.4795
+            },
+            "ticket_en": {
+              "tp": 656,
+              "fp": 19,
+              "fn": 1,
+              "precision": 0.9719,
+              "recall": 0.9985,
+              "f1": 0.985
+            },
+            "ticket_hindi": {
+              "tp": 318,
+              "fp": 0,
+              "fn": 101,
+              "precision": 1.0,
+              "recall": 0.7589,
+              "f1": 0.863
+            },
+            "ticket_hinglish": {
+              "tp": 385,
+              "fp": 33,
+              "fn": 5,
+              "precision": 0.9211,
+              "recall": 0.9872,
+              "f1": 0.953
+            },
+            "travel": {
+              "tp": 130,
+              "fp": 92,
+              "fn": 0,
+              "precision": 0.5856,
+              "recall": 1.0,
+              "f1": 0.7386
+            },
+            "vendor_note": {
+              "tp": 181,
+              "fp": 27,
+              "fn": 0,
+              "precision": 0.8702,
+              "recall": 1.0,
+              "f1": 0.9306
+            }
+          }
+        },
+        "documents": 2000,
+        "seconds": 20.581,
+        "mb_per_second": 0.013
+      }
+    },
+    "hard": {
+      "dataset": {
+        "documents": 600,
+        "labelled_values": 720,
+        "megabytes": 0.041
+      },
+      "datakavach": {
+        "all_types": {
+          "overall": {
+            "tp": 439,
+            "fp": 80,
+            "fn": 281,
+            "precision": 0.8459,
+            "recall": 0.6097,
+            "f1": 0.7086
+          },
+          "per_type": {
+            "AADHAAR": {
+              "tp": 24,
+              "fp": 32,
+              "fn": 120,
+              "precision": 0.4286,
+              "recall": 0.1667,
+              "f1": 0.24
+            },
+            "PAN": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 30,
+              "precision": 1.0,
+              "recall": 0.6667,
+              "f1": 0.8
+            },
+            "GSTIN": {
+              "tp": 150,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PHONE": {
+              "tp": 68,
+              "fp": 48,
+              "fn": 28,
+              "precision": 0.5862,
+              "recall": 0.7083,
+              "f1": 0.6415
+            },
+            "BANK_ACCOUNT": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "IFSC": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "UPI": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 19,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "EMAIL": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "VOTER_ID": {
+              "tp": 17,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PASSPORT": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 24,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            }
+          },
+          "by_kind": {
+            "invoice_with_gst": {
+              "tp": 120,
+              "fp": 19,
+              "fn": 0,
+              "precision": 0.8633,
+              "recall": 1.0,
+              "f1": 0.9266
+            },
+            "line_break": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "lower_case_ids": {
+              "tp": 30,
+              "fp": 0,
+              "fn": 30,
+              "precision": 1.0,
+              "recall": 0.5,
+              "f1": 0.6667
+            },
+            "missing_keywords": {
+              "tp": 17,
+              "fp": 0,
+              "fn": 43,
+              "precision": 1.0,
+              "recall": 0.2833,
+              "f1": 0.4416
+            },
+            "obfuscated_email": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "ocr_noise": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "odd_phone_formats": {
+              "tp": 32,
+              "fp": 1,
+              "fn": 28,
+              "precision": 0.9697,
+              "recall": 0.5333,
+              "f1": 0.6882
+            },
+            "other_scripts": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "realistic_mix": {
+              "tp": 180,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "unknown_contexts": {
+              "tp": 0,
+              "fp": 60,
+              "fn": 0,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            }
+          }
+        },
+        "shared_types": {
+          "overall": {
+            "tp": 319,
+            "fp": 80,
+            "fn": 262,
+            "precision": 0.7995,
+            "recall": 0.5491,
+            "f1": 0.651
+          },
+          "per_type": {
+            "AADHAAR": {
+              "tp": 24,
+              "fp": 32,
+              "fn": 120,
+              "precision": 0.4286,
+              "recall": 0.1667,
+              "f1": 0.24
+            },
+            "PAN": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 30,
+              "precision": 1.0,
+              "recall": 0.6667,
+              "f1": 0.8
+            },
+            "GSTIN": {
+              "tp": 150,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PHONE": {
+              "tp": 68,
+              "fp": 48,
+              "fn": 28,
+              "precision": 0.5862,
+              "recall": 0.7083,
+              "f1": 0.6415
+            },
+            "EMAIL": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "VOTER_ID": {
+              "tp": 17,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PASSPORT": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 24,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            }
+          },
+          "by_kind": {
+            "invoice_with_gst": {
+              "tp": 120,
+              "fp": 19,
+              "fn": 0,
+              "precision": 0.8633,
+              "recall": 1.0,
+              "f1": 0.9266
+            },
+            "line_break": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "lower_case_ids": {
+              "tp": 30,
+              "fp": 0,
+              "fn": 30,
+              "precision": 1.0,
+              "recall": 0.5,
+              "f1": 0.6667
+            },
+            "missing_keywords": {
+              "tp": 17,
+              "fp": 0,
+              "fn": 24,
+              "precision": 1.0,
+              "recall": 0.4146,
+              "f1": 0.5862
+            },
+            "obfuscated_email": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "ocr_noise": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "odd_phone_formats": {
+              "tp": 32,
+              "fp": 1,
+              "fn": 28,
+              "precision": 0.9697,
+              "recall": 0.5333,
+              "f1": 0.6882
+            },
+            "other_scripts": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "realistic_mix": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "unknown_contexts": {
+              "tp": 0,
+              "fp": 60,
+              "fn": 0,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            }
+          }
+        },
+        "shared_types_same_docs": {
+          "overall": {
+            "tp": 319,
+            "fp": 80,
+            "fn": 262,
+            "precision": 0.7995,
+            "recall": 0.5491,
+            "f1": 0.651
+          },
+          "per_type": {
+            "AADHAAR": {
+              "tp": 24,
+              "fp": 32,
+              "fn": 120,
+              "precision": 0.4286,
+              "recall": 0.1667,
+              "f1": 0.24
+            },
+            "PAN": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 30,
+              "precision": 1.0,
+              "recall": 0.6667,
+              "f1": 0.8
+            },
+            "GSTIN": {
+              "tp": 150,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PHONE": {
+              "tp": 68,
+              "fp": 48,
+              "fn": 28,
+              "precision": 0.5862,
+              "recall": 0.7083,
+              "f1": 0.6415
+            },
+            "EMAIL": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "VOTER_ID": {
+              "tp": 17,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PASSPORT": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 24,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            }
+          },
+          "by_kind": {
+            "invoice_with_gst": {
+              "tp": 120,
+              "fp": 19,
+              "fn": 0,
+              "precision": 0.8633,
+              "recall": 1.0,
+              "f1": 0.9266
+            },
+            "line_break": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "lower_case_ids": {
+              "tp": 30,
+              "fp": 0,
+              "fn": 30,
+              "precision": 1.0,
+              "recall": 0.5,
+              "f1": 0.6667
+            },
+            "missing_keywords": {
+              "tp": 17,
+              "fp": 0,
+              "fn": 24,
+              "precision": 1.0,
+              "recall": 0.4146,
+              "f1": 0.5862
+            },
+            "obfuscated_email": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "ocr_noise": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "odd_phone_formats": {
+              "tp": 32,
+              "fp": 1,
+              "fn": 28,
+              "precision": 0.9697,
+              "recall": 0.5333,
+              "f1": 0.6882
+            },
+            "other_scripts": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "realistic_mix": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "unknown_contexts": {
+              "tp": 0,
+              "fp": 60,
+              "fn": 0,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            }
+          }
+        }
+      },
+      "presidio": {
+        "threshold": 0.1,
+        "all_types": {
+          "overall": {
+            "tp": 377,
+            "fp": 169,
+            "fn": 343,
+            "precision": 0.6905,
+            "recall": 0.5236,
+            "f1": 0.5956
+          },
+          "per_type": {
+            "AADHAAR": {
+              "tp": 0,
+              "fp": 31,
+              "fn": 144,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "PAN": {
+              "tp": 90,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "GSTIN": {
+              "tp": 150,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "CARD": {
+              "tp": 0,
+              "fp": 3,
+              "fn": 0,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "PHONE": {
+              "tp": 96,
+              "fp": 135,
+              "fn": 0,
+              "precision": 0.4156,
+              "recall": 1.0,
+              "f1": 0.5872
+            },
+            "BANK_ACCOUNT": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "IFSC": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "UPI": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 19,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "EMAIL": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "VOTER_ID": {
+              "tp": 17,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PASSPORT": {
+              "tp": 24,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            }
+          },
+          "by_kind": {
+            "invoice_with_gst": {
+              "tp": 120,
+              "fp": 49,
+              "fn": 0,
+              "precision": 0.7101,
+              "recall": 1.0,
+              "f1": 0.8304
+            },
+            "line_break": {
+              "tp": 0,
+              "fp": 3,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "lower_case_ids": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "missing_keywords": {
+              "tp": 41,
+              "fp": 0,
+              "fn": 19,
+              "precision": 1.0,
+              "recall": 0.6833,
+              "f1": 0.8119
+            },
+            "obfuscated_email": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "ocr_noise": {
+              "tp": 0,
+              "fp": 1,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "odd_phone_formats": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "other_scripts": {
+              "tp": 36,
+              "fp": 0,
+              "fn": 24,
+              "precision": 1.0,
+              "recall": 0.6,
+              "f1": 0.75
+            },
+            "realistic_mix": {
+              "tp": 60,
+              "fp": 56,
+              "fn": 120,
+              "precision": 0.5172,
+              "recall": 0.3333,
+              "f1": 0.4054
+            },
+            "unknown_contexts": {
+              "tp": 0,
+              "fp": 60,
+              "fn": 0,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            }
+          }
+        },
+        "shared_types": {
+          "overall": {
+            "tp": 377,
+            "fp": 169,
+            "fn": 204,
+            "precision": 0.6905,
+            "recall": 0.6489,
+            "f1": 0.669
+          },
+          "per_type": {
+            "AADHAAR": {
+              "tp": 0,
+              "fp": 31,
+              "fn": 144,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "PAN": {
+              "tp": 90,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "GSTIN": {
+              "tp": 150,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "CARD": {
+              "tp": 0,
+              "fp": 3,
+              "fn": 0,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "PHONE": {
+              "tp": 96,
+              "fp": 135,
+              "fn": 0,
+              "precision": 0.4156,
+              "recall": 1.0,
+              "f1": 0.5872
+            },
+            "EMAIL": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "VOTER_ID": {
+              "tp": 17,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "PASSPORT": {
+              "tp": 24,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            }
+          },
+          "by_kind": {
+            "invoice_with_gst": {
+              "tp": 120,
+              "fp": 49,
+              "fn": 0,
+              "precision": 0.7101,
+              "recall": 1.0,
+              "f1": 0.8304
+            },
+            "line_break": {
+              "tp": 0,
+              "fp": 3,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "lower_case_ids": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "missing_keywords": {
+              "tp": 41,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "obfuscated_email": {
+              "tp": 0,
+              "fp": 0,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "ocr_noise": {
+              "tp": 0,
+              "fp": 1,
+              "fn": 60,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "odd_phone_formats": {
+              "tp": 60,
+              "fp": 0,
+              "fn": 0,
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0
+            },
+            "other_scripts": {
+              "tp": 36,
+              "fp": 0,
+              "fn": 24,
+              "precision": 1.0,
+              "recall": 0.6,
+              "f1": 0.75
+            },
+            "realistic_mix": {
+              "tp": 60,
+              "fp": 56,
+              "fn": 0,
+              "precision": 0.5172,
+              "recall": 1.0,
+              "f1": 0.6818
+            },
+            "unknown_contexts": {
+              "tp": 0,
+              "fp": 60,
+              "fn": 0,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            }
+          }
+        },
+        "documents": 600,
+        "seconds": 4.509,
+        "mb_per_second": 0.009
+      }
+    }
+  },
+  "speed": {
+    "datakavach": {
+      "threads_1": {
+        "mb_per_second": 30.0,
+        "megabytes": 39.6
+      },
+      "threads_2": {
+        "mb_per_second": 56.8,
+        "megabytes": 39.6
+      }
+    },
+    "presidio_mb_per_second": 0.013
+  },
+  "generated_at": "2026-09-29 08:44"
+}

@@ -1,0 +1,600 @@
+{"id": 0, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8209  6654  2876 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 1, "kind": "line_break", "text": "Aadhaar:\n2722\n9710 2820\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 2, "kind": "odd_phone_formats", "text": "Reach me: 75123.93704", "spans": [[10, 21, "PHONE"]]}
+{"id": 3, "kind": "obfuscated_email", "text": "write to gbose [at] outlook [dot] com for the refund", "spans": [[9, 37, "EMAIL"]]}
+{"id": 4, "kind": "unknown_contexts", "text": "Consignment no 865425987476 dispatched", "spans": []}
+{"id": 5, "kind": "lower_case_ids", "text": "reg no 25dpzpt3754d9z0", "spans": [[7, 22, "GSTIN"]]}
+{"id": 6, "kind": "missing_keywords", "text": "EPIC card EAA2087233", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 7, "kind": "other_scripts", "text": "आधार संख्या ६३५१ २९२२ १२१४ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 8, "kind": "realistic_mix", "text": "From: Bhoomi Rao\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 82463823897 ifsc BARB0271134. My pan is QMWPZ0469N. Thanks, Bhoomi\nSent from my phone | Kolkata | Ref 1557477429", "spans": [[85, 96, "BANK_ACCOUNT"], [102, 113, "IFSC"], [125, 135, "PAN"]]}
+{"id": 9, "kind": "invoice_with_gst", "text": "TAX INVOICE\nAnnapurna Caterers\nGST No.: 03ORMFF2256V4ZC\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 15PDJFQ3344B3ZY\nPO 5651821947", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 10, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8251  1213  3298 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 11, "kind": "line_break", "text": "Aadhaar:\n2599\n7066 2849\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 12, "kind": "odd_phone_formats", "text": "Tel 69787.10273", "spans": [[4, 15, "PHONE"]]}
+{"id": 13, "kind": "obfuscated_email", "text": "write to suresh_shah [at] rediffmail [dot] com for the refund", "spans": [[9, 46, "EMAIL"]]}
+{"id": 14, "kind": "unknown_contexts", "text": "Meter 7921124840 reading 4521 units", "spans": []}
+{"id": 15, "kind": "lower_case_ids", "text": "my details: imjpu1838d, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 16, "kind": "missing_keywords", "text": "pay Amit at divya@tmb", "spans": [[12, 21, "UPI"]]}
+{"id": 17, "kind": "other_scripts", "text": "आधार संख्या ७९५१ ३८०७ १७११ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 18, "kind": "realistic_mix", "text": "From: Priya Deshpande\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 6807355463719247 ifsc CNRB0756714. My pan is WCUPF7684S. Thanks, Priya\nSent from my phone | Pune | Ref 5880232159", "spans": [[89, 105, "BANK_ACCOUNT"], [111, 122, "IFSC"], [134, 144, "PAN"]]}
+{"id": 19, "kind": "invoice_with_gst", "text": "TAX INVOICE\nAnnapurna Caterers\nGST No.: 15OINPP1914A5Z4\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 35NYIFW4587G9ZR\nPO 5020857710", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 20, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 2601  9073  5324 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 21, "kind": "line_break", "text": "Aadhaar:\n8130\n2564 8580\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 22, "kind": "odd_phone_formats", "text": "Tel 64738.60129", "spans": [[4, 15, "PHONE"]]}
+{"id": 23, "kind": "obfuscated_email", "text": "write to suresh.singh [at] gmail [dot] com for the refund", "spans": [[9, 42, "EMAIL"]]}
+{"id": 24, "kind": "unknown_contexts", "text": "Folio 7741702917 credited with dividend", "spans": []}
+{"id": 25, "kind": "lower_case_ids", "text": "my details: xwdpo6560r, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 26, "kind": "missing_keywords", "text": "pay Manoj at fatima@dlb", "spans": [[13, 23, "UPI"]]}
+{"id": 27, "kind": "other_scripts", "text": "आधार संख्या ३०२४ ४२७७ ४०२८ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 28, "kind": "realistic_mix", "text": "From: Shreya Mehta\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 574152597047 ifsc PUNB0867051. My pan is YPRPB1029Y. Thanks, Shreya\nSent from my phone | Chandigarh | Ref 5588071659", "spans": [[87, 99, "BANK_ACCOUNT"], [105, 116, "IFSC"], [128, 138, "PAN"]]}
+{"id": 29, "kind": "invoice_with_gst", "text": "TAX INVOICE\nNilgiri Tea Co\nGST No.: 22DBFCC2751H6ZR\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 14LNZFO9140B6ZW\nPO 5101898028", "spans": [[36, 51, "GSTIN"], [112, 127, "GSTIN"]]}
+{"id": 30, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 6407  6953  3593 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 31, "kind": "line_break", "text": "Aadhaar:\n6897\n8149 5760\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 32, "kind": "odd_phone_formats", "text": "Reach me: +91 (965) 941-0919", "spans": [[10, 28, "PHONE"]]}
+{"id": 33, "kind": "obfuscated_email", "text": "write to ravi.nair [at] rediffmail [dot] com for the refund", "spans": [[9, 44, "EMAIL"]]}
+{"id": 34, "kind": "unknown_contexts", "text": "Meter 6225318381 reading 4521 units", "spans": []}
+{"id": 35, "kind": "lower_case_ids", "text": "my details: yxppc5115a, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 36, "kind": "missing_keywords", "text": "pay Karthik at sunita@tmb", "spans": [[15, 25, "UPI"]]}
+{"id": 37, "kind": "other_scripts", "text": "தொலைபேசி எண் ௬௧௦௯௯௪௯௦௧௩", "spans": [[13, 23, "PHONE"]]}
+{"id": 38, "kind": "realistic_mix", "text": "From: Rohan Deshpande\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 3869449254245427 ifsc UTIB0557439. My pan is VMMPY1889O. Thanks, Rohan\nSent from my phone | Bengaluru | Ref 8813511662", "spans": [[90, 106, "BANK_ACCOUNT"], [112, 123, "IFSC"], [135, 145, "PAN"]]}
+{"id": 39, "kind": "invoice_with_gst", "text": "TAX INVOICE\nBharat Hardware\nGST No.: 33UWXFQ9772U4ZQ\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 04FTSPQ2200Z3ZM\nPO 4624737026", "spans": [[37, 52, "GSTIN"], [113, 128, "GSTIN"]]}
+{"id": 40, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8257  4831  3814 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 41, "kind": "line_break", "text": "Aadhaar:\n8708\n4526 8317\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 42, "kind": "odd_phone_formats", "text": "Reach me: 91-7385253326", "spans": [[10, 23, "PHONE"]]}
+{"id": 43, "kind": "obfuscated_email", "text": "write to kgupta [at] outlook [dot] com for the refund", "spans": [[9, 38, "EMAIL"]]}
+{"id": 44, "kind": "unknown_contexts", "text": "Consignment no 550044474934 dispatched", "spans": []}
+{"id": 45, "kind": "lower_case_ids", "text": "reg no 06mohpm8569l1zu", "spans": [[7, 22, "GSTIN"]]}
+{"id": 46, "kind": "missing_keywords", "text": "PP no W6116274, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 47, "kind": "other_scripts", "text": "தொலைபேசி எண் ௬௪௪௯௮௧௩௪௫௬", "spans": [[13, 23, "PHONE"]]}
+{"id": 48, "kind": "realistic_mix", "text": "From: Lakshmi Joshi\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 74901878962 ifsc HDFC0066336. My pan is NUSPM7908C. Thanks, Lakshmi\nSent from my phone | Chennai | Ref 1584935364", "spans": [[88, 99, "BANK_ACCOUNT"], [105, 116, "IFSC"], [128, 138, "PAN"]]}
+{"id": 49, "kind": "invoice_with_gst", "text": "TAX INVOICE\nTulsi Pharma\nGST No.: 04FJPFP9234A3ZM\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 12RMUFB6531T9ZD\nPO 5544547662", "spans": [[34, 49, "GSTIN"], [110, 125, "GSTIN"]]}
+{"id": 50, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 4286 8863 O168 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 51, "kind": "line_break", "text": "Aadhaar:\n7114\n8072 4738\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 52, "kind": "odd_phone_formats", "text": "Mob. +91 61 2413 9290", "spans": [[5, 21, "PHONE"]]}
+{"id": 53, "kind": "obfuscated_email", "text": "write to imran_banerjee [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 52, "EMAIL"]]}
+{"id": 54, "kind": "unknown_contexts", "text": "Folio 9109475640 credited with dividend", "spans": []}
+{"id": 55, "kind": "lower_case_ids", "text": "my details: vodpw2737s, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 56, "kind": "missing_keywords", "text": "EPIC card PWE0265222", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 57, "kind": "other_scripts", "text": "தொலைபேசி எண் ௬௦௫௯௩௪௧௫௫௨", "spans": [[13, 23, "PHONE"]]}
+{"id": 58, "kind": "realistic_mix", "text": "From: Priya Naidu\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 868887651019 ifsc CNRB0472121. My pan is QJPPE4005F. Thanks, Priya\nSent from my phone | Bengaluru | Ref 8617419715", "spans": [[86, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 59, "kind": "invoice_with_gst", "text": "TAX INVOICE\nShree Traders\nGST No.: 26OHECG5619U4ZZ\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 02YWGFO9777M3ZM\nPO 8105356870", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 60, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 7051  9863  9529 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 61, "kind": "line_break", "text": "Aadhaar:\n3437\n9284 3853\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 62, "kind": "odd_phone_formats", "text": "Mob. 81493.61700", "spans": [[5, 16, "PHONE"]]}
+{"id": 63, "kind": "obfuscated_email", "text": "write to ayesha.chauhan [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 52, "EMAIL"]]}
+{"id": 64, "kind": "unknown_contexts", "text": "Ack. 663641272375 generated for your return", "spans": []}
+{"id": 65, "kind": "lower_case_ids", "text": "my details: hykpe8666a, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 66, "kind": "missing_keywords", "text": "PP no M1460499, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 67, "kind": "other_scripts", "text": "आधार संख्या ६९७५ ८००३ ६४१० है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 68, "kind": "realistic_mix", "text": "From: Arjun Iyer\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 14830978066874 ifsc HDFC0519627. My pan is TAVPR0417X. Thanks, Arjun\nSent from my phone | Pune | Ref 6506422721", "spans": [[84, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 69, "kind": "invoice_with_gst", "text": "TAX INVOICE\nGanesh Enterprises\nGST No.: 10ETXFE6275H6ZT\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 29NBHCL7698R3ZM\nPO 3075057044", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 70, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 9832  5660  2575 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 71, "kind": "line_break", "text": "Aadhaar:\n2245\n3876 3884\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 72, "kind": "odd_phone_formats", "text": "Mob. 82133.45057", "spans": [[5, 16, "PHONE"]]}
+{"id": 73, "kind": "obfuscated_email", "text": "write to arjun61 [at] company [dot] in for the refund", "spans": [[9, 38, "EMAIL"]]}
+{"id": 74, "kind": "unknown_contexts", "text": "Ack. 271205258626 generated for your return", "spans": []}
+{"id": 75, "kind": "lower_case_ids", "text": "reg no 33didcc9268v3z3", "spans": [[7, 22, "GSTIN"]]}
+{"id": 76, "kind": "missing_keywords", "text": "PP no L5410244, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 77, "kind": "other_scripts", "text": "தொலைபேசி எண் ௯௬௭௭௨௦௧௩௭௬", "spans": [[13, 23, "PHONE"]]}
+{"id": 78, "kind": "realistic_mix", "text": "From: Harpreet Sharma\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 20223256830654 ifsc HDFC0804781. My pan is WVVPK1869F. Thanks, Harpreet\nSent from my phone | Kochi | Ref 4995899671", "spans": [[89, 103, "BANK_ACCOUNT"], [109, 120, "IFSC"], [132, 142, "PAN"]]}
+{"id": 79, "kind": "invoice_with_gst", "text": "TAX INVOICE\nBharat Hardware\nGST No.: 19XEJFD0740I6ZH\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 21IOUCP1462S4ZM\nPO 2800474861", "spans": [[37, 52, "GSTIN"], [113, 128, "GSTIN"]]}
+{"id": 80, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 6773  9820  8949 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 81, "kind": "line_break", "text": "Aadhaar:\n4684\n9470 0777\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 82, "kind": "odd_phone_formats", "text": "Tel +91 (896) 877-8703", "spans": [[4, 22, "PHONE"]]}
+{"id": 83, "kind": "obfuscated_email", "text": "write to karthik_chauhan [at] company [dot] in for the refund", "spans": [[9, 46, "EMAIL"]]}
+{"id": 84, "kind": "unknown_contexts", "text": "Meter 8547467517 reading 4521 units", "spans": []}
+{"id": 85, "kind": "lower_case_ids", "text": "my details: bqhpx2134b, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 86, "kind": "missing_keywords", "text": "EPIC card RUG4039269", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 87, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௨௨௦௬௬௮௯௬௦", "spans": [[13, 23, "PHONE"]]}
+{"id": 88, "kind": "realistic_mix", "text": "From: Anjali Menon\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 30571155773 ifsc SBIN0018309. My pan is JGBPO0197Q. Thanks, Anjali\nSent from my phone | Jaipur | Ref 1025140109", "spans": [[87, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 89, "kind": "invoice_with_gst", "text": "TAX INVOICE\nTulsi Pharma\nGST No.: 34UTECA5966C8Z0\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 36RLOCC0367F4ZG\nPO 2725969320", "spans": [[34, 49, "GSTIN"], [110, 125, "GSTIN"]]}
+{"id": 90, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 3257 0935 166O (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 91, "kind": "line_break", "text": "Aadhaar:\n2558\n0982 5303\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 92, "kind": "odd_phone_formats", "text": "Reach me: +91 (822) 774-3261", "spans": [[10, 28, "PHONE"]]}
+{"id": 93, "kind": "obfuscated_email", "text": "write to divya_deshpande [at] company [dot] in for the refund", "spans": [[9, 46, "EMAIL"]]}
+{"id": 94, "kind": "unknown_contexts", "text": "Folio 6044803970 credited with dividend", "spans": []}
+{"id": 95, "kind": "lower_case_ids", "text": "my details: auepb5874t, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 96, "kind": "missing_keywords", "text": "PP no J9867844, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 97, "kind": "other_scripts", "text": "தொலைபேசி எண் ௭௭௨௩௧௦௦௪௯௪", "spans": [[13, 23, "PHONE"]]}
+{"id": 98, "kind": "realistic_mix", "text": "From: Gurpreet Iyer\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 125785312171 ifsc HDFC0619413. My pan is IKCPW2584L. Thanks, Gurpreet\nSent from my phone | Jaipur | Ref 4444909602", "spans": [[88, 100, "BANK_ACCOUNT"], [106, 117, "IFSC"], [129, 139, "PAN"]]}
+{"id": 99, "kind": "invoice_with_gst", "text": "TAX INVOICE\nOm Agro Foods\nGST No.: 26GLPPS0250Y8ZN\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 25IGOFM3265D3ZP\nPO 7810601352", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 100, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 9667  8386  5249 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 101, "kind": "line_break", "text": "Aadhaar:\n3905\n7962 1331\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 102, "kind": "odd_phone_formats", "text": "Mob. (+91) 96529-70087", "spans": [[5, 22, "PHONE"]]}
+{"id": 103, "kind": "obfuscated_email", "text": "write to harpreet32 [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 48, "EMAIL"]]}
+{"id": 104, "kind": "unknown_contexts", "text": "Ack. 583054100270 generated for your return", "spans": []}
+{"id": 105, "kind": "lower_case_ids", "text": "reg no 31efapt5179c7zd", "spans": [[7, 22, "GSTIN"]]}
+{"id": 106, "kind": "missing_keywords", "text": "pay Nikhil at priya@tmb", "spans": [[14, 23, "UPI"]]}
+{"id": 107, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௧௬௬௫௫௦௪௯௧", "spans": [[13, 23, "PHONE"]]}
+{"id": 108, "kind": "realistic_mix", "text": "From: Kavya Naidu\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 1164130671633423 ifsc YESB0203816. My pan is JUEPP6066S. Thanks, Kavya\nSent from my phone | Indore | Ref 3979494907", "spans": [[86, 102, "BANK_ACCOUNT"], [108, 119, "IFSC"], [131, 141, "PAN"]]}
+{"id": 109, "kind": "invoice_with_gst", "text": "TAX INVOICE\nAnnapurna Caterers\nGST No.: 18WGJPM6196B2ZJ\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 34SXPFL6119K7ZZ\nPO 1942142670", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 110, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8015 1535 2O67 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 111, "kind": "line_break", "text": "Aadhaar:\n7580\n7747 9326\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 112, "kind": "odd_phone_formats", "text": "Reach me: (+91) 85775-02472", "spans": [[10, 27, "PHONE"]]}
+{"id": 113, "kind": "obfuscated_email", "text": "write to karthik.kaur [at] company [dot] in for the refund", "spans": [[9, 43, "EMAIL"]]}
+{"id": 114, "kind": "unknown_contexts", "text": "Folio 9389585685 credited with dividend", "spans": []}
+{"id": 115, "kind": "lower_case_ids", "text": "reg no 22mozfn9026m4zb", "spans": [[7, 22, "GSTIN"]]}
+{"id": 116, "kind": "missing_keywords", "text": "PP no K3846704, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 117, "kind": "other_scripts", "text": "आधार संख्या ३०५७ ४०९५ ४६७० है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 118, "kind": "realistic_mix", "text": "From: Farhan Pillai\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 55848505847 ifsc KKBK0879461. My pan is RBZPY3486Q. Thanks, Farhan\nSent from my phone | Hyderabad | Ref 2318231959", "spans": [[87, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 119, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 29PQQCI2224J5ZT\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 31EKJPO9901N6ZI\nPO 3324843603", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 120, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8006 6666 877O (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 121, "kind": "line_break", "text": "Aadhaar:\n7526\n8401 7037\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 122, "kind": "odd_phone_formats", "text": "Tel 91-7559035140", "spans": [[4, 17, "PHONE"]]}
+{"id": 123, "kind": "obfuscated_email", "text": "write to adsouza [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 45, "EMAIL"]]}
+{"id": 124, "kind": "unknown_contexts", "text": "Complaint 662240657871 escalated to L2", "spans": []}
+{"id": 125, "kind": "lower_case_ids", "text": "my details: zjypt0220s, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 126, "kind": "missing_keywords", "text": "PP no P9916293, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 127, "kind": "other_scripts", "text": "आधार संख्या ८९६७ ११५५ ४५२५ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 128, "kind": "realistic_mix", "text": "From: Sneha Fernandes\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 900846214349 ifsc HDFC0198685. My pan is SPOPK4634S. Thanks, Sneha\nSent from my phone | Hyderabad | Ref 2052991091", "spans": [[89, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 129, "kind": "invoice_with_gst", "text": "TAX INVOICE\nAnnapurna Caterers\nGST No.: 22COCCY9469V4Z6\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 28POZFY3044M7ZS\nPO 7145607098", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 130, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 3867  6328  8843 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 131, "kind": "line_break", "text": "Aadhaar:\n7283\n0663 9015\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 132, "kind": "odd_phone_formats", "text": "Mob. 91-7018722012", "spans": [[5, 18, "PHONE"]]}
+{"id": 133, "kind": "obfuscated_email", "text": "write to lakshmi.yadav [at] rediffmail [dot] com for the refund", "spans": [[9, 48, "EMAIL"]]}
+{"id": 134, "kind": "unknown_contexts", "text": "Consignment no 767090172342 dispatched", "spans": []}
+{"id": 135, "kind": "lower_case_ids", "text": "reg no 31twzce6678u3zd", "spans": [[7, 22, "GSTIN"]]}
+{"id": 136, "kind": "missing_keywords", "text": "PP no Y8594309, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 137, "kind": "other_scripts", "text": "आधार संख्या ८६९३ ११५५ १५०९ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 138, "kind": "realistic_mix", "text": "From: Fatima Agarwal\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 829363908261 ifsc ICIC0103066. My pan is GOKPQ2586L. Thanks, Fatima\nSent from my phone | Kochi | Ref 3298741066", "spans": [[89, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 139, "kind": "invoice_with_gst", "text": "TAX INVOICE\nOm Agro Foods\nGST No.: 32QVBCX4838V7ZP\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 34NHXPC5821N5ZE\nPO 9284959933", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 140, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 4496 9109 6O33 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 141, "kind": "line_break", "text": "Aadhaar:\n8394\n1042 6303\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 142, "kind": "odd_phone_formats", "text": "Mob. (+91) 67794-93517", "spans": [[5, 22, "PHONE"]]}
+{"id": 143, "kind": "obfuscated_email", "text": "write to zoya.dsouza [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 49, "EMAIL"]]}
+{"id": 144, "kind": "unknown_contexts", "text": "Meter 7054037183 reading 4521 units", "spans": []}
+{"id": 145, "kind": "lower_case_ids", "text": "reg no 08fvypf8312f4z2", "spans": [[7, 22, "GSTIN"]]}
+{"id": 146, "kind": "missing_keywords", "text": "PP no U6877767, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 147, "kind": "other_scripts", "text": "தொலைபேசி எண் ௭௩௪௧௪௩௬௩௭௯", "spans": [[13, 23, "PHONE"]]}
+{"id": 148, "kind": "realistic_mix", "text": "From: Joseph Joshi\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 2040345371903678 ifsc ICIC0378713. My pan is VGQPD7382Y. Thanks, Joseph\nSent from my phone | Guwahati | Ref 2596422679", "spans": [[87, 103, "BANK_ACCOUNT"], [109, 120, "IFSC"], [132, 142, "PAN"]]}
+{"id": 149, "kind": "invoice_with_gst", "text": "TAX INVOICE\nNilgiri Tea Co\nGST No.: 28OGHCA7721N8ZB\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 10VAYPZ0792E6ZK\nPO 5466286863", "spans": [[36, 51, "GSTIN"], [112, 127, "GSTIN"]]}
+{"id": 150, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 5126  3073  6711 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 151, "kind": "line_break", "text": "Aadhaar:\n9310\n3554 7136\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 152, "kind": "odd_phone_formats", "text": "Number - 91-7437536936", "spans": [[9, 22, "PHONE"]]}
+{"id": 153, "kind": "obfuscated_email", "text": "write to spatel [at] company [dot] in for the refund", "spans": [[9, 37, "EMAIL"]]}
+{"id": 154, "kind": "unknown_contexts", "text": "Customer ID 8137664793 upgraded to premium", "spans": []}
+{"id": 155, "kind": "lower_case_ids", "text": "my details: uimpy3414p, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 156, "kind": "missing_keywords", "text": "PP no N9272381, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 157, "kind": "other_scripts", "text": "தொலைபேசி எண் ௯௦௬௮௫௦௨௬௬௬", "spans": [[13, 23, "PHONE"]]}
+{"id": 158, "kind": "realistic_mix", "text": "From: Mary Rao\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 1239264751003819 ifsc ICIC0343146. My pan is DDYPK4428S. Thanks, Mary\nSent from my phone | Lucknow | Ref 3042194690", "spans": [[82, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 159, "kind": "invoice_with_gst", "text": "TAX INVOICE\nVardhman Textiles\nGST No.: 16YDPCN7659H9ZQ\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 34AEIPF8311G4ZQ\nPO 2565833410", "spans": [[39, 54, "GSTIN"], [115, 130, "GSTIN"]]}
+{"id": 160, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 6461 8856 543O (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 161, "kind": "line_break", "text": "Aadhaar:\n6790\n5978 2559\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 162, "kind": "odd_phone_formats", "text": "Reach me: +91 (946) 700-7493", "spans": [[10, 28, "PHONE"]]}
+{"id": 163, "kind": "obfuscated_email", "text": "write to ishita.patel [at] company [dot] in for the refund", "spans": [[9, 43, "EMAIL"]]}
+{"id": 164, "kind": "unknown_contexts", "text": "Complaint 701653755247 escalated to L2", "spans": []}
+{"id": 165, "kind": "lower_case_ids", "text": "reg no 07stncf7772v5zl", "spans": [[7, 22, "GSTIN"]]}
+{"id": 166, "kind": "missing_keywords", "text": "EPIC card MVO6545213", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 167, "kind": "other_scripts", "text": "आधार संख्या ५८२९ ९९९६ ०२४३ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 168, "kind": "realistic_mix", "text": "From: Sneha Naidu\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 97141887878247 ifsc KKBK0757050. My pan is YFIPS2905O. Thanks, Sneha\nSent from my phone | Surat | Ref 6955955783", "spans": [[86, 100, "BANK_ACCOUNT"], [106, 117, "IFSC"], [129, 139, "PAN"]]}
+{"id": 169, "kind": "invoice_with_gst", "text": "TAX INVOICE\nNilgiri Tea Co\nGST No.: 22ECLPZ1278H2Z4\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 18WOTPW6228K3Z9\nPO 2434496400", "spans": [[36, 51, "GSTIN"], [112, 127, "GSTIN"]]}
+{"id": 170, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 3973 7804 8O00 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 171, "kind": "line_break", "text": "Aadhaar:\n3835\n9007 5685\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 172, "kind": "odd_phone_formats", "text": "Number - (+91) 78204-79738", "spans": [[9, 26, "PHONE"]]}
+{"id": 173, "kind": "obfuscated_email", "text": "write to zoya_mishra [at] outlook [dot] com for the refund", "spans": [[9, 43, "EMAIL"]]}
+{"id": 174, "kind": "unknown_contexts", "text": "Folio 9928316974 credited with dividend", "spans": []}
+{"id": 175, "kind": "lower_case_ids", "text": "reg no 16sedpk3290w3z6", "spans": [[7, 22, "GSTIN"]]}
+{"id": 176, "kind": "missing_keywords", "text": "pay Amit at ananya@tmb", "spans": [[12, 22, "UPI"]]}
+{"id": 177, "kind": "other_scripts", "text": "தொலைபேசி எண் ௯௮௧௩௯௬௨௧௯௯", "spans": [[13, 23, "PHONE"]]}
+{"id": 178, "kind": "realistic_mix", "text": "From: Divya Naidu\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 81998605862 ifsc YESB0445842. My pan is GIWPI2088A. Thanks, Divya\nSent from my phone | Bhopal | Ref 5762342309", "spans": [[86, 97, "BANK_ACCOUNT"], [103, 114, "IFSC"], [126, 136, "PAN"]]}
+{"id": 179, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 28IHRPX9759B1Z5\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 16QTLPK7236H7ZU\nPO 7026690518", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 180, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 6476 8151 37O4 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 181, "kind": "line_break", "text": "Aadhaar:\n7215\n8089 7798\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 182, "kind": "odd_phone_formats", "text": "Mob. +91 (894) 644-6906", "spans": [[5, 23, "PHONE"]]}
+{"id": 183, "kind": "obfuscated_email", "text": "write to akhan [at] company [dot] in for the refund", "spans": [[9, 36, "EMAIL"]]}
+{"id": 184, "kind": "unknown_contexts", "text": "Complaint 385813068756 escalated to L2", "spans": []}
+{"id": 185, "kind": "lower_case_ids", "text": "my details: rjzpj9216a, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 186, "kind": "missing_keywords", "text": "pay Kiran at sneha@tmb", "spans": [[13, 22, "UPI"]]}
+{"id": 187, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௬௫௬௬௮௫௯௧௨", "spans": [[13, 23, "PHONE"]]}
+{"id": 188, "kind": "realistic_mix", "text": "From: Imran Kaur\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 86342767925 ifsc BARB0217875. My pan is YUBPN5929E. Thanks, Imran\nSent from my phone | Chennai | Ref 3758028411", "spans": [[84, 95, "BANK_ACCOUNT"], [101, 112, "IFSC"], [124, 134, "PAN"]]}
+{"id": 189, "kind": "invoice_with_gst", "text": "TAX INVOICE\nTulsi Pharma\nGST No.: 30SMDFX9788H5ZD\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 10RVXCI1525H7ZU\nPO 6057903529", "spans": [[34, 49, "GSTIN"], [110, 125, "GSTIN"]]}
+{"id": 190, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 2965 8167 4O76 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 191, "kind": "line_break", "text": "Aadhaar:\n7575\n3223 1922\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 192, "kind": "odd_phone_formats", "text": "Tel 91-6125287504", "spans": [[4, 17, "PHONE"]]}
+{"id": 193, "kind": "obfuscated_email", "text": "write to suresh.dsouza [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 51, "EMAIL"]]}
+{"id": 194, "kind": "unknown_contexts", "text": "Consignment no 317552541453 dispatched", "spans": []}
+{"id": 195, "kind": "lower_case_ids", "text": "reg no 23yjqfq0135e5z9", "spans": [[7, 22, "GSTIN"]]}
+{"id": 196, "kind": "missing_keywords", "text": "pay Aditya at sneha@dlb", "spans": [[14, 23, "UPI"]]}
+{"id": 197, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௩௬௪௩௦௨௧௧௬", "spans": [[13, 23, "PHONE"]]}
+{"id": 198, "kind": "realistic_mix", "text": "From: Kiran Joshi\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 289415500740 ifsc IDIB0372182. My pan is DMNPR5999P. Thanks, Kiran\nSent from my phone | Lucknow | Ref 7269423485", "spans": [[86, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 199, "kind": "invoice_with_gst", "text": "TAX INVOICE\nGanesh Enterprises\nGST No.: 21PAECW2769M2ZJ\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 08JKACF2075N2ZK\nPO 3114842467", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 200, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 6957 4829 2O65 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 201, "kind": "line_break", "text": "Aadhaar:\n4017\n6382 5120\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 202, "kind": "odd_phone_formats", "text": "Number - +91 74 0636 5963", "spans": [[9, 25, "PHONE"]]}
+{"id": 203, "kind": "obfuscated_email", "text": "write to bhoomi_menon [at] gmail [dot] com for the refund", "spans": [[9, 42, "EMAIL"]]}
+{"id": 204, "kind": "unknown_contexts", "text": "Ack. 727373039857 generated for your return", "spans": []}
+{"id": 205, "kind": "lower_case_ids", "text": "reg no 31mkipu7230i4zn", "spans": [[7, 22, "GSTIN"]]}
+{"id": 206, "kind": "missing_keywords", "text": "pay Ayesha at anjali@dlb", "spans": [[14, 24, "UPI"]]}
+{"id": 207, "kind": "other_scripts", "text": "आधार संख्या ६६९७ २३१३ ५९९३ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 208, "kind": "realistic_mix", "text": "From: Deepa Reddy\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 1364753188754037 ifsc YESB0806031. My pan is ULNPU3175Q. Thanks, Deepa\nSent from my phone | Pune | Ref 7107507018", "spans": [[86, 102, "BANK_ACCOUNT"], [108, 119, "IFSC"], [131, 141, "PAN"]]}
+{"id": 209, "kind": "invoice_with_gst", "text": "TAX INVOICE\nGanesh Enterprises\nGST No.: 17XPKCQ3400F8Z0\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 03CUFFD1481L6Z8\nPO 1265602070", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 210, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8377  4016  9622 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 211, "kind": "line_break", "text": "Aadhaar:\n8424\n8497 7764\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 212, "kind": "odd_phone_formats", "text": "Mob. +91 (896) 437-5823", "spans": [[5, 23, "PHONE"]]}
+{"id": 213, "kind": "obfuscated_email", "text": "write to dchatterjee [at] gmail [dot] com for the refund", "spans": [[9, 41, "EMAIL"]]}
+{"id": 214, "kind": "unknown_contexts", "text": "Complaint 469897566643 escalated to L2", "spans": []}
+{"id": 215, "kind": "lower_case_ids", "text": "reg no 22zvzcj1917c2zp", "spans": [[7, 22, "GSTIN"]]}
+{"id": 216, "kind": "missing_keywords", "text": "PP no T7213415, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 217, "kind": "other_scripts", "text": "आधार संख्या २६९४ ५००६ ५३८६ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 218, "kind": "realistic_mix", "text": "From: Manoj Nair\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 188534375713 ifsc ICIC0866122. My pan is LSQPV6508D. Thanks, Manoj\nSent from my phone | Mumbai | Ref 3161630085", "spans": [[84, 96, "BANK_ACCOUNT"], [102, 113, "IFSC"], [125, 135, "PAN"]]}
+{"id": 219, "kind": "invoice_with_gst", "text": "TAX INVOICE\nKaveri Electricals\nGST No.: 01EOGFT4385H4Z7\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 15TJGFU8350I6ZQ\nPO 9643424633", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 220, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 4618 9505 53O2 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 221, "kind": "line_break", "text": "Aadhaar:\n5444\n3765 8927\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 222, "kind": "odd_phone_formats", "text": "Tel +91 91 7587 2313", "spans": [[4, 20, "PHONE"]]}
+{"id": 223, "kind": "obfuscated_email", "text": "write to arjun.joshi [at] gmail [dot] com for the refund", "spans": [[9, 41, "EMAIL"]]}
+{"id": 224, "kind": "unknown_contexts", "text": "Complaint 605923840327 escalated to L2", "spans": []}
+{"id": 225, "kind": "lower_case_ids", "text": "my details: htwpg6213m, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 226, "kind": "missing_keywords", "text": "EPIC card DYR6195981", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 227, "kind": "other_scripts", "text": "आधार संख्या ४५४६ ८६७५ १२६३ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 228, "kind": "realistic_mix", "text": "From: Sunita Kaur\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 3395631149167853 ifsc ICIC0967666. My pan is TAAPT8421G. Thanks, Sunita\nSent from my phone | Delhi | Ref 7027590925", "spans": [[85, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 229, "kind": "invoice_with_gst", "text": "TAX INVOICE\nTulsi Pharma\nGST No.: 07MBKPD7186L6ZP\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 15PECPX7269M8Z3\nPO 9416298985", "spans": [[34, 49, "GSTIN"], [110, 125, "GSTIN"]]}
+{"id": 230, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 2286 2075 264O (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 231, "kind": "line_break", "text": "Aadhaar:\n9890\n2419 1143\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 232, "kind": "odd_phone_formats", "text": "Reach me: (+91) 62016-57142", "spans": [[10, 27, "PHONE"]]}
+{"id": 233, "kind": "obfuscated_email", "text": "write to siddharth_chauhan [at] gmail [dot] com for the refund", "spans": [[9, 47, "EMAIL"]]}
+{"id": 234, "kind": "unknown_contexts", "text": "Meter 6276986313 reading 4521 units", "spans": []}
+{"id": 235, "kind": "lower_case_ids", "text": "reg no 25lsycy7692q9z5", "spans": [[7, 22, "GSTIN"]]}
+{"id": 236, "kind": "missing_keywords", "text": "PP no L6464787, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 237, "kind": "other_scripts", "text": "आधार संख्या ४६३४ २२६२ ९७१२ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 238, "kind": "realistic_mix", "text": "From: Meera Sharma\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 22309735939917 ifsc IDIB0233820. My pan is RPTPA0613Z. Thanks, Meera\nSent from my phone | Surat | Ref 8142954753", "spans": [[86, 100, "BANK_ACCOUNT"], [106, 117, "IFSC"], [129, 139, "PAN"]]}
+{"id": 239, "kind": "invoice_with_gst", "text": "TAX INVOICE\nVardhman Textiles\nGST No.: 11HNBPF2049B2ZS\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 02PISPC4473J4ZO\nPO 3526219699", "spans": [[39, 54, "GSTIN"], [115, 130, "GSTIN"]]}
+{"id": 240, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 5861 1630 516O (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 241, "kind": "line_break", "text": "Aadhaar:\n4289\n3721 9977\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 242, "kind": "odd_phone_formats", "text": "Number - +91 (928) 870-9897", "spans": [[9, 27, "PHONE"]]}
+{"id": 243, "kind": "obfuscated_email", "text": "write to sneha44 [at] outlook [dot] com for the refund", "spans": [[9, 39, "EMAIL"]]}
+{"id": 244, "kind": "unknown_contexts", "text": "Meter 8332945926 reading 4521 units", "spans": []}
+{"id": 245, "kind": "lower_case_ids", "text": "reg no 04uytpr4407r1z0", "spans": [[7, 22, "GSTIN"]]}
+{"id": 246, "kind": "missing_keywords", "text": "EPIC card IAY7172761", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 247, "kind": "other_scripts", "text": "आधार संख्या ५५३९ ४२२५ ३६२५ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 248, "kind": "realistic_mix", "text": "From: Nisha Pillai\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 51582884243308 ifsc CNRB0579234. My pan is LMHPN6806Y. Thanks, Nisha\nSent from my phone | Ahmedabad | Ref 5174540900", "spans": [[87, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 249, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 08VRZCO6704I1Z7\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 28IPFCF2707J6ZD\nPO 6407249674", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 250, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 3215  1141  4136 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 251, "kind": "line_break", "text": "Aadhaar:\n5228\n7232 2637\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 252, "kind": "odd_phone_formats", "text": "Reach me: 99352.94334", "spans": [[10, 21, "PHONE"]]}
+{"id": 253, "kind": "obfuscated_email", "text": "write to sneha78 [at] company [dot] in for the refund", "spans": [[9, 38, "EMAIL"]]}
+{"id": 254, "kind": "unknown_contexts", "text": "Consignment no 240722158044 dispatched", "spans": []}
+{"id": 255, "kind": "lower_case_ids", "text": "my details: wanpw8810w, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 256, "kind": "missing_keywords", "text": "PP no V2644761, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 257, "kind": "other_scripts", "text": "தொலைபேசி எண் ௯௪௨௫௧௭௫௩௯௭", "spans": [[13, 23, "PHONE"]]}
+{"id": 258, "kind": "realistic_mix", "text": "From: Priya Iyer\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 34335948713515 ifsc SBIN0208321. My pan is LMEPJ2185V. Thanks, Priya\nSent from my phone | Chandigarh | Ref 1244734553", "spans": [[85, 99, "BANK_ACCOUNT"], [105, 116, "IFSC"], [128, 138, "PAN"]]}
+{"id": 259, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 27UAPCV2522C8ZO\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 01PSNFE9403Z4Z2\nPO 1000131052", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 260, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 6989 0542 572O (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 261, "kind": "line_break", "text": "Aadhaar:\n2686\n9434 2509\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 262, "kind": "odd_phone_formats", "text": "Number - 64297.24894", "spans": [[9, 20, "PHONE"]]}
+{"id": 263, "kind": "obfuscated_email", "text": "write to pooja_khan [at] gmail [dot] com for the refund", "spans": [[9, 40, "EMAIL"]]}
+{"id": 264, "kind": "unknown_contexts", "text": "Folio 6232545394 credited with dividend", "spans": []}
+{"id": 265, "kind": "lower_case_ids", "text": "my details: alopd6544t, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 266, "kind": "missing_keywords", "text": "pay Aditya at priya@kvb", "spans": [[14, 23, "UPI"]]}
+{"id": 267, "kind": "other_scripts", "text": "आधार संख्या ७२५७ ६३०६ ९८९८ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 268, "kind": "realistic_mix", "text": "From: Divya D'Souza\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 3582709249554110 ifsc BARB0133459. My pan is NACPK6415M. Thanks, Divya\nSent from my phone | Jaipur | Ref 1983671876", "spans": [[88, 104, "BANK_ACCOUNT"], [110, 121, "IFSC"], [133, 143, "PAN"]]}
+{"id": 269, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 33PJAPQ9604M4ZG\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 20NNDPP7884K7Z2\nPO 1088169882", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 270, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 7332  8285  2565 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 271, "kind": "line_break", "text": "Aadhaar:\n5269\n2549 3951\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 272, "kind": "odd_phone_formats", "text": "Reach me: 68400.54665", "spans": [[10, 21, "PHONE"]]}
+{"id": 273, "kind": "obfuscated_email", "text": "write to shreya_joshi [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 50, "EMAIL"]]}
+{"id": 274, "kind": "unknown_contexts", "text": "Consignment no 722036062834 dispatched", "spans": []}
+{"id": 275, "kind": "lower_case_ids", "text": "reg no 32fmrfk3119k3zb", "spans": [[7, 22, "GSTIN"]]}
+{"id": 276, "kind": "missing_keywords", "text": "PP no R2090922, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 277, "kind": "other_scripts", "text": "தொலைபேசி எண் ௬௭௦௭௫௬௬௮௦௯", "spans": [[13, 23, "PHONE"]]}
+{"id": 278, "kind": "realistic_mix", "text": "From: Harpreet Pillai\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 56413650081712 ifsc ICIC0332488. My pan is BMWPY6920W. Thanks, Harpreet\nSent from my phone | Chennai | Ref 2630419866", "spans": [[90, 104, "BANK_ACCOUNT"], [110, 121, "IFSC"], [133, 143, "PAN"]]}
+{"id": 279, "kind": "invoice_with_gst", "text": "TAX INVOICE\nTulsi Pharma\nGST No.: 20EKSFS6882D1Z9\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 11GRIFP8391C4Z4\nPO 3320050481", "spans": [[34, 49, "GSTIN"], [110, 125, "GSTIN"]]}
+{"id": 280, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 5771 7775 5O94 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 281, "kind": "line_break", "text": "Aadhaar:\n2724\n7862 4505\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 282, "kind": "odd_phone_formats", "text": "Reach me: 71908.14637", "spans": [[10, 21, "PHONE"]]}
+{"id": 283, "kind": "obfuscated_email", "text": "write to arnav22 [at] outlook [dot] com for the refund", "spans": [[9, 39, "EMAIL"]]}
+{"id": 284, "kind": "unknown_contexts", "text": "Complaint 729675323250 escalated to L2", "spans": []}
+{"id": 285, "kind": "lower_case_ids", "text": "reg no 13ucvfi1989i3z1", "spans": [[7, 22, "GSTIN"]]}
+{"id": 286, "kind": "missing_keywords", "text": "pay Meera at mary@csbpay", "spans": [[13, 24, "UPI"]]}
+{"id": 287, "kind": "other_scripts", "text": "தொலைபேசி எண் ௯௭௬௨௬௨௩௮௬௬", "spans": [[13, 23, "PHONE"]]}
+{"id": 288, "kind": "realistic_mix", "text": "From: Nikhil Reddy\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 8599508125462697 ifsc CNRB0488153. My pan is SCEPW3759I. Thanks, Nikhil\nSent from my phone | Chandigarh | Ref 2285490872", "spans": [[86, 102, "BANK_ACCOUNT"], [108, 119, "IFSC"], [131, 141, "PAN"]]}
+{"id": 289, "kind": "invoice_with_gst", "text": "TAX INVOICE\nVardhman Textiles\nGST No.: 31SLTCY2330Y2Z6\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 05HVXCD5504S8Z9\nPO 9589349058", "spans": [[39, 54, "GSTIN"], [115, 130, "GSTIN"]]}
+{"id": 290, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 7505  4793  6816 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 291, "kind": "line_break", "text": "Aadhaar:\n5364\n5958 8208\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 292, "kind": "odd_phone_formats", "text": "Number - (+91) 99240-39976", "spans": [[9, 26, "PHONE"]]}
+{"id": 293, "kind": "obfuscated_email", "text": "write to ravi.khan [at] company [dot] in for the refund", "spans": [[9, 40, "EMAIL"]]}
+{"id": 294, "kind": "unknown_contexts", "text": "Complaint 953763701070 escalated to L2", "spans": []}
+{"id": 295, "kind": "lower_case_ids", "text": "my details: moipj8609y, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 296, "kind": "missing_keywords", "text": "PP no N5558305, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 297, "kind": "other_scripts", "text": "आधार संख्या ७०३० १४१७ ९३३५ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 298, "kind": "realistic_mix", "text": "From: Tanvi Qureshi\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 58132191615033 ifsc IDIB0103384. My pan is EEBPX1130M. Thanks, Tanvi\nSent from my phone | Patna | Ref 4556369289", "spans": [[87, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 299, "kind": "invoice_with_gst", "text": "TAX INVOICE\nVardhman Textiles\nGST No.: 27DJXFM6596Q7ZZ\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 28MRPFD8332R1Z7\nPO 8596072217", "spans": [[39, 54, "GSTIN"], [115, 130, "GSTIN"]]}
+{"id": 300, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 7602  6553  1815 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 301, "kind": "line_break", "text": "Aadhaar:\n2770\n5533 0900\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 302, "kind": "odd_phone_formats", "text": "Tel +91 (954) 707-8723", "spans": [[4, 22, "PHONE"]]}
+{"id": 303, "kind": "obfuscated_email", "text": "write to trao [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 42, "EMAIL"]]}
+{"id": 304, "kind": "unknown_contexts", "text": "Meter 7024713792 reading 4521 units", "spans": []}
+{"id": 305, "kind": "lower_case_ids", "text": "reg no 13vfscr2932x2zg", "spans": [[7, 22, "GSTIN"]]}
+{"id": 306, "kind": "missing_keywords", "text": "pay Priya at meera@tmb", "spans": [[13, 22, "UPI"]]}
+{"id": 307, "kind": "other_scripts", "text": "தொலைபேசி எண் ௯௪௬௯௨௬௩௦௪௧", "spans": [[13, 23, "PHONE"]]}
+{"id": 308, "kind": "realistic_mix", "text": "From: Aditya Khan\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 9956397933907758 ifsc YESB0152187. My pan is AVVPY6113S. Thanks, Aditya\nSent from my phone | Patna | Ref 2053209540", "spans": [[85, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 309, "kind": "invoice_with_gst", "text": "TAX INVOICE\nKaveri Electricals\nGST No.: 11XKPPD1632T1ZB\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 19KKJFS1901X5ZC\nPO 2403901105", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 310, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 6877  8837  8412 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 311, "kind": "line_break", "text": "Aadhaar:\n2458\n4136 4003\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 312, "kind": "odd_phone_formats", "text": "Reach me: 87063.53338", "spans": [[10, 21, "PHONE"]]}
+{"id": 313, "kind": "obfuscated_email", "text": "write to anjali68 [at] gmail [dot] com for the refund", "spans": [[9, 38, "EMAIL"]]}
+{"id": 314, "kind": "unknown_contexts", "text": "Complaint 805610159301 escalated to L2", "spans": []}
+{"id": 315, "kind": "lower_case_ids", "text": "my details: uklps1302n, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 316, "kind": "missing_keywords", "text": "PP no W1809714, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 317, "kind": "other_scripts", "text": "आधार संख्या ८७५० ३६४६ २४९१ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 318, "kind": "realistic_mix", "text": "From: Suresh Iyer\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 142664805255 ifsc UTIB0124738. My pan is XMEPH8125R. Thanks, Suresh\nSent from my phone | Chandigarh | Ref 9407404691", "spans": [[86, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 319, "kind": "invoice_with_gst", "text": "TAX INVOICE\nOm Agro Foods\nGST No.: 08ABNFD7406K5ZX\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 19BMQCT3243R7ZI\nPO 3560253489", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 320, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 2497  5755  2714 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 321, "kind": "line_break", "text": "Aadhaar:\n5830\n3753 9024\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 322, "kind": "odd_phone_formats", "text": "Mob. +91 (933) 067-2424", "spans": [[5, 23, "PHONE"]]}
+{"id": 323, "kind": "obfuscated_email", "text": "write to rohan_iyer [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 48, "EMAIL"]]}
+{"id": 324, "kind": "unknown_contexts", "text": "Ack. 300847147093 generated for your return", "spans": []}
+{"id": 325, "kind": "lower_case_ids", "text": "my details: ncnpr0150a, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 326, "kind": "missing_keywords", "text": "EPIC card SYO0125966", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 327, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௪௬௩௪௦௭௧௩௦", "spans": [[13, 23, "PHONE"]]}
+{"id": 328, "kind": "realistic_mix", "text": "From: Shreya Reddy\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 25562759472798 ifsc KKBK0300726. My pan is QIQPO5022H. Thanks, Shreya\nSent from my phone | Patna | Ref 4474863450", "spans": [[87, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 329, "kind": "invoice_with_gst", "text": "TAX INVOICE\nOm Agro Foods\nGST No.: 13GQGFZ1205A3ZS\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 05HMFCP8454E2ZH\nPO 1604065424", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 330, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 5905 1322 O828 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 331, "kind": "line_break", "text": "Aadhaar:\n9055\n9837 3816\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 332, "kind": "odd_phone_formats", "text": "Number - +91 (690) 589-2873", "spans": [[9, 27, "PHONE"]]}
+{"id": 333, "kind": "obfuscated_email", "text": "write to divya.naidu [at] outlook [dot] com for the refund", "spans": [[9, 43, "EMAIL"]]}
+{"id": 334, "kind": "unknown_contexts", "text": "Complaint 912185045434 escalated to L2", "spans": []}
+{"id": 335, "kind": "lower_case_ids", "text": "my details: uskpj4877p, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 336, "kind": "missing_keywords", "text": "pay Imran at karthik@tmb", "spans": [[13, 24, "UPI"]]}
+{"id": 337, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௦௨௫௫௫௪௦௩௯", "spans": [[13, 23, "PHONE"]]}
+{"id": 338, "kind": "realistic_mix", "text": "From: Harpreet Fernandes\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 43583258451 ifsc PUNB0671151. My pan is OSOPJ9365V. Thanks, Harpreet\nSent from my phone | Delhi | Ref 6566377035", "spans": [[93, 104, "BANK_ACCOUNT"], [110, 121, "IFSC"], [133, 143, "PAN"]]}
+{"id": 339, "kind": "invoice_with_gst", "text": "TAX INVOICE\nVardhman Textiles\nGST No.: 01URFFN5283I4ZQ\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 22PWCFH0652M1ZY\nPO 3597794942", "spans": [[39, 54, "GSTIN"], [115, 130, "GSTIN"]]}
+{"id": 340, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 9511 1699 97O6 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 341, "kind": "line_break", "text": "Aadhaar:\n4262\n7602 3656\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 342, "kind": "odd_phone_formats", "text": "Number - 91-8441339254", "spans": [[9, 22, "PHONE"]]}
+{"id": 343, "kind": "obfuscated_email", "text": "write to manoj44 [at] gmail [dot] com for the refund", "spans": [[9, 37, "EMAIL"]]}
+{"id": 344, "kind": "unknown_contexts", "text": "Meter 9383965695 reading 4521 units", "spans": []}
+{"id": 345, "kind": "lower_case_ids", "text": "reg no 35igzcr8592i1zp", "spans": [[7, 22, "GSTIN"]]}
+{"id": 346, "kind": "missing_keywords", "text": "EPIC card SHT9552301", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 347, "kind": "other_scripts", "text": "आधार संख्या ६२१५ ८५९१ ४०५५ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 348, "kind": "realistic_mix", "text": "From: Sneha Joshi\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 18725358464777 ifsc IDIB0148712. My pan is INWPP7336E. Thanks, Sneha\nSent from my phone | Patna | Ref 7697785945", "spans": [[86, 100, "BANK_ACCOUNT"], [106, 117, "IFSC"], [129, 139, "PAN"]]}
+{"id": 349, "kind": "invoice_with_gst", "text": "TAX INVOICE\nNilgiri Tea Co\nGST No.: 33WESFX0100T4ZT\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 36YHSCC9256E9ZX\nPO 2749575874", "spans": [[36, 51, "GSTIN"], [112, 127, "GSTIN"]]}
+{"id": 350, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8831  6151  7391 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 351, "kind": "line_break", "text": "Aadhaar:\n6359\n9096 6047\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 352, "kind": "odd_phone_formats", "text": "Number - 91-9437178301", "spans": [[9, 22, "PHONE"]]}
+{"id": 353, "kind": "obfuscated_email", "text": "write to lakshmi_singh [at] outlook [dot] com for the refund", "spans": [[9, 45, "EMAIL"]]}
+{"id": 354, "kind": "unknown_contexts", "text": "Meter 8067347843 reading 4521 units", "spans": []}
+{"id": 355, "kind": "lower_case_ids", "text": "reg no 24zvuch1773j4z5", "spans": [[7, 22, "GSTIN"]]}
+{"id": 356, "kind": "missing_keywords", "text": "pay Imran at meera@tmb", "spans": [[13, 22, "UPI"]]}
+{"id": 357, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௫௯௨௮௫௪௩௦௦", "spans": [[13, 23, "PHONE"]]}
+{"id": 358, "kind": "realistic_mix", "text": "From: Manoj Naidu\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 881145163066 ifsc UTIB0147418. My pan is QTMPA0391G. Thanks, Manoj\nSent from my phone | Lucknow | Ref 4699568002", "spans": [[86, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 359, "kind": "invoice_with_gst", "text": "TAX INVOICE\nKaveri Electricals\nGST No.: 18RBYCM4916C2ZK\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 20UNKCM2161S5ZS\nPO 1361896931", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 360, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 5281  0981  7531 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 361, "kind": "line_break", "text": "Aadhaar:\n7263\n7212 8057\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 362, "kind": "odd_phone_formats", "text": "Number - 91-7114572970", "spans": [[9, 22, "PHONE"]]}
+{"id": 363, "kind": "obfuscated_email", "text": "write to tenzin_bose [at] company [dot] in for the refund", "spans": [[9, 42, "EMAIL"]]}
+{"id": 364, "kind": "unknown_contexts", "text": "Meter 8785723265 reading 4521 units", "spans": []}
+{"id": 365, "kind": "lower_case_ids", "text": "my details: yrkpi4410y, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 366, "kind": "missing_keywords", "text": "EPIC card NBS4518771", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 367, "kind": "other_scripts", "text": "தொலைபேசி எண் ௬௮௦௬௮௨௬௦௬௩", "spans": [[13, 23, "PHONE"]]}
+{"id": 368, "kind": "realistic_mix", "text": "From: Arjun Das\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 921037602426 ifsc SBIN0325030. My pan is SPEPQ2180S. Thanks, Arjun\nSent from my phone | Ahmedabad | Ref 2769638860", "spans": [[83, 95, "BANK_ACCOUNT"], [101, 112, "IFSC"], [124, 134, "PAN"]]}
+{"id": 369, "kind": "invoice_with_gst", "text": "TAX INVOICE\nTulsi Pharma\nGST No.: 26UVQPL4920O7Z7\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 34GIHCR8375W2ZG\nPO 6381272501", "spans": [[34, 49, "GSTIN"], [110, 125, "GSTIN"]]}
+{"id": 370, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 3081 0317 O760 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 371, "kind": "line_break", "text": "Aadhaar:\n6370\n4717 3265\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 372, "kind": "odd_phone_formats", "text": "Mob. +91 81 7507 9147", "spans": [[5, 21, "PHONE"]]}
+{"id": 373, "kind": "obfuscated_email", "text": "write to nikhil19 [at] outlook [dot] com for the refund", "spans": [[9, 40, "EMAIL"]]}
+{"id": 374, "kind": "unknown_contexts", "text": "Customer ID 8117820073 upgraded to premium", "spans": []}
+{"id": 375, "kind": "lower_case_ids", "text": "my details: yzcpn9606l, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 376, "kind": "missing_keywords", "text": "pay Nisha at ishita@tmb", "spans": [[13, 23, "UPI"]]}
+{"id": 377, "kind": "other_scripts", "text": "தொலைபேசி எண் ௭௭௨௪௨௧௮௭௯௯", "spans": [[13, 23, "PHONE"]]}
+{"id": 378, "kind": "realistic_mix", "text": "From: Suresh Reddy\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 7946431278006224 ifsc HDFC0791400. My pan is JDSPX0323O. Thanks, Suresh\nSent from my phone | Kochi | Ref 6305738147", "spans": [[86, 102, "BANK_ACCOUNT"], [108, 119, "IFSC"], [131, 141, "PAN"]]}
+{"id": 379, "kind": "invoice_with_gst", "text": "TAX INVOICE\nVardhman Textiles\nGST No.: 28ALNFZ1950Z8ZU\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 01FUKFP2226C6ZI\nPO 3536833231", "spans": [[39, 54, "GSTIN"], [115, 130, "GSTIN"]]}
+{"id": 380, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 3317  1457  7967 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 381, "kind": "line_break", "text": "Aadhaar:\n7916\n3841 9890\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 382, "kind": "odd_phone_formats", "text": "Tel (+91) 91580-21115", "spans": [[4, 21, "PHONE"]]}
+{"id": 383, "kind": "obfuscated_email", "text": "write to nikhil.khan [at] gmail [dot] com for the refund", "spans": [[9, 41, "EMAIL"]]}
+{"id": 384, "kind": "unknown_contexts", "text": "Complaint 789404050838 escalated to L2", "spans": []}
+{"id": 385, "kind": "lower_case_ids", "text": "reg no 09jmxpp4975f3zt", "spans": [[7, 22, "GSTIN"]]}
+{"id": 386, "kind": "missing_keywords", "text": "PP no G2223753, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 387, "kind": "other_scripts", "text": "தொலைபேசி எண் ௯௩௧௬௮௦௪௭௭௩", "spans": [[13, 23, "PHONE"]]}
+{"id": 388, "kind": "realistic_mix", "text": "From: Tanvi Agarwal\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 87303739740 ifsc UTIB0566283. My pan is MOYPG3184Y. Thanks, Tanvi\nSent from my phone | Chandigarh | Ref 6120125701", "spans": [[88, 99, "BANK_ACCOUNT"], [105, 116, "IFSC"], [128, 138, "PAN"]]}
+{"id": 389, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 27EFHCB0754G2ZE\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 28RHXPB3833U6ZP\nPO 5136825163", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 390, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8284  0345  3388 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 391, "kind": "line_break", "text": "Aadhaar:\n2393\n8528 8690\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 392, "kind": "odd_phone_formats", "text": "Reach me: +91 (979) 052-5135", "spans": [[10, 28, "PHONE"]]}
+{"id": 393, "kind": "obfuscated_email", "text": "write to gurpreet.kulkarni [at] company [dot] in for the refund", "spans": [[9, 48, "EMAIL"]]}
+{"id": 394, "kind": "unknown_contexts", "text": "Meter 9038412486 reading 4521 units", "spans": []}
+{"id": 395, "kind": "lower_case_ids", "text": "reg no 12dehfg2575e6za", "spans": [[7, 22, "GSTIN"]]}
+{"id": 396, "kind": "missing_keywords", "text": "PP no J2506055, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 397, "kind": "other_scripts", "text": "தொலைபேசி எண் ௬௮௦௯௫௧௪௭௮௦", "spans": [[13, 23, "PHONE"]]}
+{"id": 398, "kind": "realistic_mix", "text": "From: Ayesha Khan\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 64804741121 ifsc YESB0175615. My pan is VZEPC9882V. Thanks, Ayesha\nSent from my phone | Indore | Ref 2045166625", "spans": [[86, 97, "BANK_ACCOUNT"], [103, 114, "IFSC"], [126, 136, "PAN"]]}
+{"id": 399, "kind": "invoice_with_gst", "text": "TAX INVOICE\nGanesh Enterprises\nGST No.: 15CQGCS3828K3Z3\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 15CRGCV3021N6Z4\nPO 9784678252", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 400, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 2896  8956  9741 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 401, "kind": "line_break", "text": "Aadhaar:\n7591\n5960 0119\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 402, "kind": "odd_phone_formats", "text": "Mob. +91 92 1892 4880", "spans": [[5, 21, "PHONE"]]}
+{"id": 403, "kind": "obfuscated_email", "text": "write to vikram9 [at] rediffmail [dot] com for the refund", "spans": [[9, 42, "EMAIL"]]}
+{"id": 404, "kind": "unknown_contexts", "text": "Ack. 660158945492 generated for your return", "spans": []}
+{"id": 405, "kind": "lower_case_ids", "text": "reg no 04xvccz4412z3zo", "spans": [[7, 22, "GSTIN"]]}
+{"id": 406, "kind": "missing_keywords", "text": "PP no F1039528, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 407, "kind": "other_scripts", "text": "आधार संख्या ७०८७ ३८८२ ७५२७ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 408, "kind": "realistic_mix", "text": "From: Rahul Bose\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 4390093902087169 ifsc CNRB0838046. My pan is HIOPU6349A. Thanks, Rahul\nSent from my phone | Kochi | Ref 3879232620", "spans": [[85, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 409, "kind": "invoice_with_gst", "text": "TAX INVOICE\nAnnapurna Caterers\nGST No.: 27NJLFR5067W6ZX\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 16OOUCW1350X5ZU\nPO 6006175544", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 410, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 4297 1381 99O0 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 411, "kind": "line_break", "text": "Aadhaar:\n9401\n5795 1159\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 412, "kind": "odd_phone_formats", "text": "Reach me: (+91) 89069-62217", "spans": [[10, 27, "PHONE"]]}
+{"id": 413, "kind": "obfuscated_email", "text": "write to kiran_menon [at] rediffmail [dot] com for the refund", "spans": [[9, 46, "EMAIL"]]}
+{"id": 414, "kind": "unknown_contexts", "text": "Meter 7146831027 reading 4521 units", "spans": []}
+{"id": 415, "kind": "lower_case_ids", "text": "my details: gkcpl2745j, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 416, "kind": "missing_keywords", "text": "EPIC card KRM5549220", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 417, "kind": "other_scripts", "text": "தொலைபேசி எண் ௭௫௬௫௩௯௩௯௮௧", "spans": [[13, 23, "PHONE"]]}
+{"id": 418, "kind": "realistic_mix", "text": "From: Zoya Agarwal\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 296645349738 ifsc YESB0914186. My pan is XTBPZ3451N. Thanks, Zoya\nSent from my phone | Mumbai | Ref 6519867390", "spans": [[87, 99, "BANK_ACCOUNT"], [105, 116, "IFSC"], [128, 138, "PAN"]]}
+{"id": 419, "kind": "invoice_with_gst", "text": "TAX INVOICE\nGanesh Enterprises\nGST No.: 04KRMCO8085Z5ZN\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 04WUHCS7686D6Z9\nPO 2108570293", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 420, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 6152  8865  9482 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 421, "kind": "line_break", "text": "Aadhaar:\n4388\n1681 1668\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 422, "kind": "odd_phone_formats", "text": "Number - +91 (744) 919-8200", "spans": [[9, 27, "PHONE"]]}
+{"id": 423, "kind": "obfuscated_email", "text": "write to hrao [at] company [dot] in for the refund", "spans": [[9, 35, "EMAIL"]]}
+{"id": 424, "kind": "unknown_contexts", "text": "Customer ID 6598651092 upgraded to premium", "spans": []}
+{"id": 425, "kind": "lower_case_ids", "text": "reg no 11mbgfn5425b9zb", "spans": [[7, 22, "GSTIN"]]}
+{"id": 426, "kind": "missing_keywords", "text": "EPIC card QTO1709386", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 427, "kind": "other_scripts", "text": "தொலைபேசி எண் ௬௦௩௭௩௫௭௫௪௦", "spans": [[13, 23, "PHONE"]]}
+{"id": 428, "kind": "realistic_mix", "text": "From: Deepa Qureshi\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 50564119946034 ifsc KKBK0165724. My pan is LFZPD1230D. Thanks, Deepa\nSent from my phone | Guwahati | Ref 4828309444", "spans": [[87, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 429, "kind": "invoice_with_gst", "text": "TAX INVOICE\nShree Traders\nGST No.: 26FZYPO5644Z7ZA\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 32GRWFQ9030M6ZC\nPO 2029186987", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 430, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 4040  8087  1741 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 431, "kind": "line_break", "text": "Aadhaar:\n7101\n3890 6432\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 432, "kind": "odd_phone_formats", "text": "Tel (+91) 95199-86494", "spans": [[4, 21, "PHONE"]]}
+{"id": 433, "kind": "obfuscated_email", "text": "write to tanvi52 [at] rediffmail [dot] com for the refund", "spans": [[9, 42, "EMAIL"]]}
+{"id": 434, "kind": "unknown_contexts", "text": "Complaint 360322649256 escalated to L2", "spans": []}
+{"id": 435, "kind": "lower_case_ids", "text": "my details: acwpz4854j, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 436, "kind": "missing_keywords", "text": "EPIC card CTZ7488618", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 437, "kind": "other_scripts", "text": "आधार संख्या ५७१६ ७६६० २५२३ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 438, "kind": "realistic_mix", "text": "From: Rohan Chauhan\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 31689114529 ifsc SBIN0180566. My pan is TMDPH9018T. Thanks, Rohan\nSent from my phone | Surat | Ref 9560163636", "spans": [[88, 99, "BANK_ACCOUNT"], [105, 116, "IFSC"], [128, 138, "PAN"]]}
+{"id": 439, "kind": "invoice_with_gst", "text": "TAX INVOICE\nAnnapurna Caterers\nGST No.: 07EPRPY2493R5Z9\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 24SZRCE5144Y8ZF\nPO 3737722400", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 440, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 3000  7415  8784 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 441, "kind": "line_break", "text": "Aadhaar:\n5296\n2612 0534\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 442, "kind": "odd_phone_formats", "text": "Tel +91 70 5030 8697", "spans": [[4, 20, "PHONE"]]}
+{"id": 443, "kind": "obfuscated_email", "text": "write to amit_agarwal [at] gmail [dot] com for the refund", "spans": [[9, 42, "EMAIL"]]}
+{"id": 444, "kind": "unknown_contexts", "text": "Ack. 381450605060 generated for your return", "spans": []}
+{"id": 445, "kind": "lower_case_ids", "text": "reg no 26matff3568c8zo", "spans": [[7, 22, "GSTIN"]]}
+{"id": 446, "kind": "missing_keywords", "text": "EPIC card IWN2979051", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 447, "kind": "other_scripts", "text": "தொலைபேசி எண் ௭௯௩௭௨௪௦௮௩௪", "spans": [[13, 23, "PHONE"]]}
+{"id": 448, "kind": "realistic_mix", "text": "From: Gurpreet Singh\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 50215240847 ifsc IDIB0513372. My pan is RKEPW7235O. Thanks, Gurpreet\nSent from my phone | Kolkata | Ref 4923419229", "spans": [[88, 99, "BANK_ACCOUNT"], [105, 116, "IFSC"], [128, 138, "PAN"]]}
+{"id": 449, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 30BDSPM6194U6ZA\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 18LHQCN7882X4ZX\nPO 6859105792", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 450, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8132  2847  9594 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 451, "kind": "line_break", "text": "Aadhaar:\n5591\n1779 4703\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 452, "kind": "odd_phone_formats", "text": "Tel 75505.03821", "spans": [[4, 15, "PHONE"]]}
+{"id": 453, "kind": "obfuscated_email", "text": "write to kavya61 [at] company [dot] in for the refund", "spans": [[9, 38, "EMAIL"]]}
+{"id": 454, "kind": "unknown_contexts", "text": "Consignment no 457005630137 dispatched", "spans": []}
+{"id": 455, "kind": "lower_case_ids", "text": "my details: fwbpp7715s, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 456, "kind": "missing_keywords", "text": "EPIC card XCW9802247", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 457, "kind": "other_scripts", "text": "आधार संख्या ४६५५ ३८३७ ८३७४ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 458, "kind": "realistic_mix", "text": "From: Harpreet Pillai\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 3068882046582961 ifsc YESB0660512. My pan is RTQPA4007V. Thanks, Harpreet\nSent from my phone | Kolkata | Ref 6059478162", "spans": [[89, 105, "BANK_ACCOUNT"], [111, 122, "IFSC"], [134, 144, "PAN"]]}
+{"id": 459, "kind": "invoice_with_gst", "text": "TAX INVOICE\nNilgiri Tea Co\nGST No.: 14HCPCJ3173D1ZC\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 14YHAPD3326V9ZB\nPO 2608652804", "spans": [[36, 51, "GSTIN"], [112, 127, "GSTIN"]]}
+{"id": 460, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8235  6213  8616 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 461, "kind": "line_break", "text": "Aadhaar:\n3081\n5658 8623\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 462, "kind": "odd_phone_formats", "text": "Number - 92711.58765", "spans": [[9, 20, "PHONE"]]}
+{"id": 463, "kind": "obfuscated_email", "text": "write to amit.mishra [at] company [dot] in for the refund", "spans": [[9, 42, "EMAIL"]]}
+{"id": 464, "kind": "unknown_contexts", "text": "Complaint 289206135704 escalated to L2", "spans": []}
+{"id": 465, "kind": "lower_case_ids", "text": "my details: ksepr0319y, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 466, "kind": "missing_keywords", "text": "PP no J8747171, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 467, "kind": "other_scripts", "text": "தொலைபேசி எண் ௭௪௯௭௮௫௨௨௦௨", "spans": [[13, 23, "PHONE"]]}
+{"id": 468, "kind": "realistic_mix", "text": "From: Arjun Kaur\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 7845796250779317 ifsc IDIB0681302. My pan is NVJPE4076R. Thanks, Arjun\nSent from my phone | Kolkata | Ref 9799376132", "spans": [[85, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 469, "kind": "invoice_with_gst", "text": "TAX INVOICE\nTulsi Pharma\nGST No.: 03LLZFQ5521F2Z4\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 05SJZPP6654T5Z5\nPO 3143334781", "spans": [[34, 49, "GSTIN"], [110, 125, "GSTIN"]]}
+{"id": 470, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 9065  8293  2444 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 471, "kind": "line_break", "text": "Aadhaar:\n7436\n7786 6765\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 472, "kind": "odd_phone_formats", "text": "Reach me: 91-9267337796", "spans": [[10, 23, "PHONE"]]}
+{"id": 473, "kind": "obfuscated_email", "text": "write to mgupta [at] gmail [dot] com for the refund", "spans": [[9, 36, "EMAIL"]]}
+{"id": 474, "kind": "unknown_contexts", "text": "Folio 7995555789 credited with dividend", "spans": []}
+{"id": 475, "kind": "lower_case_ids", "text": "my details: alxpg3338g, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 476, "kind": "missing_keywords", "text": "EPIC card ZTI9046883", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 477, "kind": "other_scripts", "text": "आधार संख्या ९७०४ ०६२१ ३२६९ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 478, "kind": "realistic_mix", "text": "From: Aditya Mehta\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 118715100466 ifsc YESB0507662. My pan is USHPV0323D. Thanks, Aditya\nSent from my phone | Ahmedabad | Ref 3272009985", "spans": [[87, 99, "BANK_ACCOUNT"], [105, 116, "IFSC"], [128, 138, "PAN"]]}
+{"id": 479, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 07ZUECM2888Y9Z5\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 26WUDFD5178C1ZW\nPO 2938139002", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 480, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8444  8728  6987 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 481, "kind": "line_break", "text": "Aadhaar:\n7015\n1978 6346\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 482, "kind": "odd_phone_formats", "text": "Tel 65302.82341", "spans": [[4, 15, "PHONE"]]}
+{"id": 483, "kind": "obfuscated_email", "text": "write to bhoomi.chauhan [at] company [dot] in for the refund", "spans": [[9, 45, "EMAIL"]]}
+{"id": 484, "kind": "unknown_contexts", "text": "Customer ID 8517782786 upgraded to premium", "spans": []}
+{"id": 485, "kind": "lower_case_ids", "text": "reg no 21xibpc6405c4zk", "spans": [[7, 22, "GSTIN"]]}
+{"id": 486, "kind": "missing_keywords", "text": "pay Deepa at ananya@tmb", "spans": [[13, 23, "UPI"]]}
+{"id": 487, "kind": "other_scripts", "text": "தொலைபேசி எண் ௭௭௧௯௩௭௮௮௯௬", "spans": [[13, 23, "PHONE"]]}
+{"id": 488, "kind": "realistic_mix", "text": "From: Manoj Agarwal\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 85359812138 ifsc PUNB0733931. My pan is JGSPH1871I. Thanks, Manoj\nSent from my phone | Delhi | Ref 5510019832", "spans": [[87, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 489, "kind": "invoice_with_gst", "text": "TAX INVOICE\nShree Traders\nGST No.: 13ZQICZ3317K8ZE\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 26TPECY2227G8ZU\nPO 9101530987", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 490, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 5750  8175  2622 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 491, "kind": "line_break", "text": "Aadhaar:\n2074\n6115 7949\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 492, "kind": "odd_phone_formats", "text": "Number - +91 74 4057 0945", "spans": [[9, 25, "PHONE"]]}
+{"id": 493, "kind": "obfuscated_email", "text": "write to farhan.chauhan [at] outlook [dot] com for the refund", "spans": [[9, 46, "EMAIL"]]}
+{"id": 494, "kind": "unknown_contexts", "text": "Meter 8122362213 reading 4521 units", "spans": []}
+{"id": 495, "kind": "lower_case_ids", "text": "my details: jnjpa0445g, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 496, "kind": "missing_keywords", "text": "EPIC card QYL9383710", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 497, "kind": "other_scripts", "text": "आधार संख्या ५०६९ ६५४६ २५३३ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 498, "kind": "realistic_mix", "text": "From: Sunita Khan\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 4782503355335307 ifsc ICIC0408778. My pan is JTEPC3329B. Thanks, Sunita\nSent from my phone | Kolkata | Ref 4546517500", "spans": [[86, 102, "BANK_ACCOUNT"], [108, 119, "IFSC"], [131, 141, "PAN"]]}
+{"id": 499, "kind": "invoice_with_gst", "text": "TAX INVOICE\nShree Traders\nGST No.: 33XZTFW8974E5Z9\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 20HQUFE6720G8Z8\nPO 5727063693", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 500, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 4167 5723 O553 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 501, "kind": "line_break", "text": "Aadhaar:\n8996\n3857 7129\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 502, "kind": "odd_phone_formats", "text": "Reach me: 78324.60618", "spans": [[10, 21, "PHONE"]]}
+{"id": 503, "kind": "obfuscated_email", "text": "write to fbose [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 43, "EMAIL"]]}
+{"id": 504, "kind": "unknown_contexts", "text": "Ack. 804866163212 generated for your return", "spans": []}
+{"id": 505, "kind": "lower_case_ids", "text": "my details: drppz5021e, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 506, "kind": "missing_keywords", "text": "pay Vikram at sunita@tmb", "spans": [[14, 24, "UPI"]]}
+{"id": 507, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௦௮௦௭௪௨௫௪௭", "spans": [[13, 23, "PHONE"]]}
+{"id": 508, "kind": "realistic_mix", "text": "From: Gurpreet Naidu\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 11340849798 ifsc KKBK0084353. My pan is DNPPB7897M. Thanks, Gurpreet\nSent from my phone | Chandigarh | Ref 3502121973", "spans": [[88, 99, "BANK_ACCOUNT"], [105, 116, "IFSC"], [128, 138, "PAN"]]}
+{"id": 509, "kind": "invoice_with_gst", "text": "TAX INVOICE\nTulsi Pharma\nGST No.: 01VVRFE5951U9ZM\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 30GXKFG1088I9ZT\nPO 5842097416", "spans": [[34, 49, "GSTIN"], [110, 125, "GSTIN"]]}
+{"id": 510, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 8208  1714  1928 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 511, "kind": "line_break", "text": "Aadhaar:\n7023\n6653 2705\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 512, "kind": "odd_phone_formats", "text": "Tel 89494.06080", "spans": [[4, 15, "PHONE"]]}
+{"id": 513, "kind": "obfuscated_email", "text": "write to lakshmi1 [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 46, "EMAIL"]]}
+{"id": 514, "kind": "unknown_contexts", "text": "Complaint 996233165485 escalated to L2", "spans": []}
+{"id": 515, "kind": "lower_case_ids", "text": "reg no 18nbqps6114c5z2", "spans": [[7, 22, "GSTIN"]]}
+{"id": 516, "kind": "missing_keywords", "text": "PP no G8822994, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 517, "kind": "other_scripts", "text": "தொலைபேசி எண் ௬௮௧௩௨௪௭௪௧௦", "spans": [[13, 23, "PHONE"]]}
+{"id": 518, "kind": "realistic_mix", "text": "From: Nikhil Naidu\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 61843621528 ifsc ICIC0826603. My pan is LLGPO3899H. Thanks, Nikhil\nSent from my phone | Chennai | Ref 3638215819", "spans": [[86, 97, "BANK_ACCOUNT"], [103, 114, "IFSC"], [126, 136, "PAN"]]}
+{"id": 519, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 23XTCPH2107B4ZZ\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 02FJIFC6246V4Z4\nPO 6291796579", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 520, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 2843  6838  8985 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 521, "kind": "line_break", "text": "Aadhaar:\n3120\n9702 8501\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 522, "kind": "odd_phone_formats", "text": "Number - (+91) 90772-78703", "spans": [[9, 26, "PHONE"]]}
+{"id": 523, "kind": "obfuscated_email", "text": "write to amishra [at] company [dot] in for the refund", "spans": [[9, 38, "EMAIL"]]}
+{"id": 524, "kind": "unknown_contexts", "text": "Folio 9829962669 credited with dividend", "spans": []}
+{"id": 525, "kind": "lower_case_ids", "text": "my details: wiepn0659m, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 526, "kind": "missing_keywords", "text": "pay Zoya at pooja@dlb", "spans": [[12, 21, "UPI"]]}
+{"id": 527, "kind": "other_scripts", "text": "आधार संख्या ७९३० १२२८ ३३५८ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 528, "kind": "realistic_mix", "text": "From: Tanvi Gupta\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 106922158450 ifsc YESB0446480. My pan is YIAPZ8079Y. Thanks, Tanvi\nSent from my phone | Nagpur | Ref 5778923788", "spans": [[86, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 529, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 01AYHPI6036Z2ZP\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 19DOEPB0564R1ZJ\nPO 7284619549", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 530, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 5156  3889  9671 (auto-extracted)", "spans": [[23, 39, "AADHAAR"]]}
+{"id": 531, "kind": "line_break", "text": "Aadhaar:\n7799\n7768 5820\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 532, "kind": "odd_phone_formats", "text": "Number - +91 85 9295 4154", "spans": [[9, 25, "PHONE"]]}
+{"id": 533, "kind": "obfuscated_email", "text": "write to sneha87 [at] outlook [dot] com for the refund", "spans": [[9, 39, "EMAIL"]]}
+{"id": 534, "kind": "unknown_contexts", "text": "Customer ID 9597084004 upgraded to premium", "spans": []}
+{"id": 535, "kind": "lower_case_ids", "text": "my details: vozpk4716l, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 536, "kind": "missing_keywords", "text": "EPIC card NRT5327565", "spans": [[10, 20, "VOTER_ID"]]}
+{"id": 537, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௨௬௪௩௧௪௨௨௭", "spans": [[13, 23, "PHONE"]]}
+{"id": 538, "kind": "realistic_mix", "text": "From: Divya Patel\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 470818218671 ifsc CNRB0023089. My pan is RUAPW8532Q. Thanks, Divya\nSent from my phone | Patna | Ref 9977262348", "spans": [[86, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 539, "kind": "invoice_with_gst", "text": "TAX INVOICE\nBharat Hardware\nGST No.: 07UTLFF6631B1Z0\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 06PCEFW6609N9ZX\nPO 2955427526", "spans": [[37, 52, "GSTIN"], [113, 128, "GSTIN"]]}
+{"id": 540, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 5518 0963 1O50 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 541, "kind": "line_break", "text": "Aadhaar:\n5359\n3199 4551\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 542, "kind": "odd_phone_formats", "text": "Tel +91 70 2188 1276", "spans": [[4, 20, "PHONE"]]}
+{"id": 543, "kind": "obfuscated_email", "text": "write to sunita74 [at] outlook [dot] com for the refund", "spans": [[9, 40, "EMAIL"]]}
+{"id": 544, "kind": "unknown_contexts", "text": "Ack. 488267442199 generated for your return", "spans": []}
+{"id": 545, "kind": "lower_case_ids", "text": "reg no 03vavcu0321l2zm", "spans": [[7, 22, "GSTIN"]]}
+{"id": 546, "kind": "missing_keywords", "text": "PP no L9434068, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 547, "kind": "other_scripts", "text": "आधार संख्या ९५९१ ४१५६ ९८०८ है", "spans": [[12, 26, "AADHAAR"]]}
+{"id": 548, "kind": "realistic_mix", "text": "From: Anjali Agarwal\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 383735563388 ifsc BARB0090037. My pan is QNMPI3269E. Thanks, Anjali\nSent from my phone | Lucknow | Ref 6009310406", "spans": [[88, 100, "BANK_ACCOUNT"], [106, 117, "IFSC"], [129, 139, "PAN"]]}
+{"id": 549, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 18STLCU9851O1ZN\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 18PKVPT5855I1ZO\nPO 4885094939", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 550, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 2066 0583 O651 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 551, "kind": "line_break", "text": "Aadhaar:\n7590\n5772 3713\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 552, "kind": "odd_phone_formats", "text": "Tel (+91) 85229-09119", "spans": [[4, 21, "PHONE"]]}
+{"id": 553, "kind": "obfuscated_email", "text": "write to sdeshpande [at] outlook [dot] com for the refund", "spans": [[9, 42, "EMAIL"]]}
+{"id": 554, "kind": "unknown_contexts", "text": "Folio 6671504349 credited with dividend", "spans": []}
+{"id": 555, "kind": "lower_case_ids", "text": "my details: rztpk8080i, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 556, "kind": "missing_keywords", "text": "pay Tenzin at priya@dlb", "spans": [[14, 23, "UPI"]]}
+{"id": 557, "kind": "other_scripts", "text": "தொலைபேசி எண் ௬௮௩௪௦௨௪௩௨௩", "spans": [[13, 23, "PHONE"]]}
+{"id": 558, "kind": "realistic_mix", "text": "From: Tanvi Singh\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 532017854400 ifsc UTIB0122046. My pan is ILJPB1491P. Thanks, Tanvi\nSent from my phone | Lucknow | Ref 2219180375", "spans": [[86, 98, "BANK_ACCOUNT"], [104, 115, "IFSC"], [127, 137, "PAN"]]}
+{"id": 559, "kind": "invoice_with_gst", "text": "TAX INVOICE\nSai Logistics\nGST No.: 11LDKPR6383N9ZF\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 23GSFPO7733O2Z1\nPO 7099813706", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 560, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 5503 1979 951O (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 561, "kind": "line_break", "text": "Aadhaar:\n4243\n4842 5074\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 562, "kind": "odd_phone_formats", "text": "Tel +91 68 7376 4368", "spans": [[4, 20, "PHONE"]]}
+{"id": 563, "kind": "obfuscated_email", "text": "write to shreya55 [at] gmail [dot] com for the refund", "spans": [[9, 38, "EMAIL"]]}
+{"id": 564, "kind": "unknown_contexts", "text": "Complaint 760227547105 escalated to L2", "spans": []}
+{"id": 565, "kind": "lower_case_ids", "text": "reg no 09dmxcn8462q7z3", "spans": [[7, 22, "GSTIN"]]}
+{"id": 566, "kind": "missing_keywords", "text": "PP no A9282371, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 567, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௬௪௮௫௭௦௦௪௫", "spans": [[13, 23, "PHONE"]]}
+{"id": 568, "kind": "realistic_mix", "text": "From: Joseph Shah\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 9641458070455562 ifsc YESB0164844. My pan is RCDPP7353C. Thanks, Joseph\nSent from my phone | Ahmedabad | Ref 6156234975", "spans": [[85, 101, "BANK_ACCOUNT"], [107, 118, "IFSC"], [130, 140, "PAN"]]}
+{"id": 569, "kind": "invoice_with_gst", "text": "TAX INVOICE\nAnnapurna Caterers\nGST No.: 22LCKCT9704E2ZY\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 02TQCPP6754P9ZM\nPO 1977271917", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
+{"id": 570, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 6189 2198 O742 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 571, "kind": "line_break", "text": "Aadhaar:\n2386\n5195 8528\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 572, "kind": "odd_phone_formats", "text": "Number - +91 72 4344 3344", "spans": [[9, 25, "PHONE"]]}
+{"id": 573, "kind": "obfuscated_email", "text": "write to farhan.iyer [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 49, "EMAIL"]]}
+{"id": 574, "kind": "unknown_contexts", "text": "Customer ID 9825039433 upgraded to premium", "spans": []}
+{"id": 575, "kind": "lower_case_ids", "text": "my details: vtapu3157a, pls update", "spans": [[12, 22, "PAN"]]}
+{"id": 576, "kind": "missing_keywords", "text": "pay Bhoomi at siddharth@csbpay", "spans": [[14, 30, "UPI"]]}
+{"id": 577, "kind": "other_scripts", "text": "தொலைபேசி எண் ௯௭௦௩௪௯௫௬௨௬", "spans": [[13, 23, "PHONE"]]}
+{"id": 578, "kind": "realistic_mix", "text": "From: Shreya Banerjee\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 7674444834099120 ifsc KKBK0466401. My pan is ECHPM2892E. Thanks, Shreya\nSent from my phone | Ahmedabad | Ref 4886597317", "spans": [[89, 105, "BANK_ACCOUNT"], [111, 122, "IFSC"], [134, 144, "PAN"]]}
+{"id": 579, "kind": "invoice_with_gst", "text": "TAX INVOICE\nOm Agro Foods\nGST No.: 18MQIFD2207Q5ZT\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 35ETFCQ2257A2ZL\nPO 4502417339", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 580, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 7932 5112 O402 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 581, "kind": "line_break", "text": "Aadhaar:\n3946\n1311 9086\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 582, "kind": "odd_phone_formats", "text": "Mob. +91 99 8139 9530", "spans": [[5, 21, "PHONE"]]}
+{"id": 583, "kind": "obfuscated_email", "text": "write to rkhan [at] yahoo [dot] co [dot] in for the refund", "spans": [[9, 43, "EMAIL"]]}
+{"id": 584, "kind": "unknown_contexts", "text": "Folio 9565588925 credited with dividend", "spans": []}
+{"id": 585, "kind": "lower_case_ids", "text": "reg no 08cpecx3395i6zs", "spans": [[7, 22, "GSTIN"]]}
+{"id": 586, "kind": "missing_keywords", "text": "PP no R4768192, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 587, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௭௦௫௦௩௨௧௬௬", "spans": [[13, 23, "PHONE"]]}
+{"id": 588, "kind": "realistic_mix", "text": "From: Sunita Mishra\nSubject: Re: salary account\n\nHi, the new account is with SBI - acc 635658694483 ifsc YESB0333277. My pan is LEVPY9403Z. Thanks, Sunita\nSent from my phone | Nagpur | Ref 3218417807", "spans": [[87, 99, "BANK_ACCOUNT"], [105, 116, "IFSC"], [128, 138, "PAN"]]}
+{"id": 589, "kind": "invoice_with_gst", "text": "TAX INVOICE\nOm Agro Foods\nGST No.: 10NEGPC8352I5ZD\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 30ONWCE7278V1Z7\nPO 2464682873", "spans": [[35, 50, "GSTIN"], [111, 126, "GSTIN"]]}
+{"id": 590, "kind": "ocr_noise", "text": "Scanned KYC -> Aadhaar 3457 5994 O447 (auto-extracted)", "spans": [[23, 37, "AADHAAR"]]}
+{"id": 591, "kind": "line_break", "text": "Aadhaar:\n3995\n2215 0050\nStatus: verified", "spans": [[9, 23, "AADHAAR"]]}
+{"id": 592, "kind": "odd_phone_formats", "text": "Number - +91 87 1154 8857", "spans": [[9, 25, "PHONE"]]}
+{"id": 593, "kind": "obfuscated_email", "text": "write to deepa64 [at] outlook [dot] com for the refund", "spans": [[9, 39, "EMAIL"]]}
+{"id": 594, "kind": "unknown_contexts", "text": "Consignment no 653058059192 dispatched", "spans": []}
+{"id": 595, "kind": "lower_case_ids", "text": "reg no 28lhmfp2084t9zb", "spans": [[7, 22, "GSTIN"]]}
+{"id": 596, "kind": "missing_keywords", "text": "PP no R9950411, expires 2031", "spans": [[6, 14, "PASSPORT"]]}
+{"id": 597, "kind": "other_scripts", "text": "தொலைபேசி எண் ௮௩௦௭௪௫௩௧௬௪", "spans": [[13, 23, "PHONE"]]}
+{"id": 598, "kind": "realistic_mix", "text": "From: Priya Bose\nSubject: Re: salary account\n\nHi, the new account is with HDFC - acc 60019612656 ifsc KKBK0981051. My pan is JZKPF4616G. Thanks, Priya\nSent from my phone | Ahmedabad | Ref 3841703328", "spans": [[85, 96, "BANK_ACCOUNT"], [102, 113, "IFSC"], [125, 135, "PAN"]]}
+{"id": 599, "kind": "invoice_with_gst", "text": "TAX INVOICE\nKaveri Electricals\nGST No.: 12FJJPN5684A7Z2\nHSN 1006 | Qty 20 | Rate 45.00 | Total 900.00\nBill to GSTIN 37TDEPV9149J4Z6\nPO 1118446109", "spans": [[40, 55, "GSTIN"], [116, 131, "GSTIN"]]}
